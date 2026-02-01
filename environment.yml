@@ -1,0 +1,23 @@
+name: moea-rl
+channels:
+- pytorch
+- conda-forge
+- defaults
+dependencies:
+- python=3.10
+- numpy
+- scipy
+- pandas
+- matplotlib
+- gymnasium
+- pytorch
+- optuna
+- tensorboard
+- tqdm
+- joblib
+- pyyaml
+- pip
+- pip:
+    - stable-baselines3
+    - sb3-contrib
+    - pymoo
