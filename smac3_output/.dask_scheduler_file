@@ -1,0 +1,218 @@
+{
+  "type": "Scheduler",
+  "id": "Scheduler-a16dfbc6-2f48-4d4b-94c3-3259b7a4ede9",
+  "address": "tcp://127.0.0.1:40623",
+  "services": {
+    "dashboard": 8787
+  },
+  "started": 1776626739.1768696,
+  "n_workers": 4,
+  "total_threads": 4,
+  "total_memory": 8051589120,
+  "workers": {
+    "tcp://127.0.0.1:35949": {
+      "type": "Worker",
+      "id": 3,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/davi/Documents/MOEA_RL/smac3_output/dask-scratch-space/worker-nda9g3o1",
+      "name": 3,
+      "nthreads": 1,
+      "memory_limit": 2012897280,
+      "last_seen": 1776626740.3468351,
+      "services": {
+        "dashboard": 38505
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 159272960,
+        "time": 1776626740.3285284,
+        "host_net_io": {
+          "read_bps": 405428.93288025435,
+          "write_bps": 405428.93288025435
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:38465"
+    },
+    "tcp://127.0.0.1:43439": {
+      "type": "Worker",
+      "id": 1,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/davi/Documents/MOEA_RL/smac3_output/dask-scratch-space/worker-dmaa7ont",
+      "name": 1,
+      "nthreads": 1,
+      "memory_limit": 2012897280,
+      "last_seen": 1776626740.3463516,
+      "services": {
+        "dashboard": 35887
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 159539200,
+        "time": 1776626740.328111,
+        "host_net_io": {
+          "read_bps": 591315.5197411147,
+          "write_bps": 591315.5197411147
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:35087"
+    },
+    "tcp://127.0.0.1:44213": {
+      "type": "Worker",
+      "id": 2,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/davi/Documents/MOEA_RL/smac3_output/dask-scratch-space/worker-g5rcmch2",
+      "name": 2,
+      "nthreads": 1,
+      "memory_limit": 2012897280,
+      "last_seen": 1776626740.3445299,
+      "services": {
+        "dashboard": 41421
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 159559680,
+        "time": 1776626740.3289628,
+        "host_net_io": {
+          "read_bps": 342982.9297613326,
+          "write_bps": 342982.9297613326
+        },
+        "host_disk_io": {
+          "read_bps": 16527742.12120492,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:43393"
+    },
+    "tcp://127.0.0.1:45401": {
+      "type": "Worker",
+      "id": 0,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/davi/Documents/MOEA_RL/smac3_output/dask-scratch-space/worker-3u0pu4h4",
+      "name": 0,
+      "nthreads": 1,
+      "memory_limit": 2012897280,
+      "last_seen": 1776626740.338792,
+      "services": {
+        "dashboard": 36385
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 159576064,
+        "time": 1776626740.3226235,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 4782270.080050867,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:45519"
+    }
+  }
+}
