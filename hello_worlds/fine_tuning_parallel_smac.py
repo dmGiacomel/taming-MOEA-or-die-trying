@@ -20,7 +20,7 @@ from pymoo.termination.default import DefaultMultiObjectiveTermination
 class NSGA2Tuner:
     def __init__(self):
         # 1. Configurações do Problema
-        self.problem = get_problem("dtlz1", n_var=60, n_obj=3)
+        self.problem = get_problem("dtlz3", n_var=60, n_obj=3)
         self.n_evals = 400000 
         self.ref_point = np.array([1.1, 1.1, 1.1])
         
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     scenario = Scenario(
         tuner.cs,
         deterministic=False, 
-        n_trials=250,
+        n_trials=300,
         n_workers=4,
         output_directory="resultados_nsga2_dtlz1_400k_numpy_ilimitada"
     )

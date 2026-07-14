@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "submitted": 3,
+    "finished": 2,
+    "running": 1
+  },
+  "data": [
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.08375728233226654,
+      "time": 174.85635685920715,
+      "cpu_time": 174.841813354,
+      "status": 1,
+      "starttime": 1782937294.2419183,
+      "endtime": 1782937469.0991828,
+      "additional_info": {}
+    },
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.08341270277236479,
+      "time": 196.8079526424408,
+      "cpu_time": 196.754417281,
+      "status": 1,
+      "starttime": 1782937469.1009808,
+      "endtime": 1782937665.9096828,
+      "additional_info": {}
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": 2147483647.0,
+      "time": 0.0,
+      "cpu_time": 0.0,
+      "status": 0,
+      "starttime": 0.0,
+      "endtime": 0.0,
+      "additional_info": {}
+    }
+  ],
+  "configs": {
+    "1": {
+      "mutation_prob": 0.1341723820139,
+      "n_neighbors": 35,
+      "pbi_theta": 3.0426497524604
+    },
+    "2": {
+      "mutation_prob": 0.4999159275933,
+      "n_neighbors": 10,
+      "pbi_theta": 19.9922411195936
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Acquisition Function Maximizer: Local Search"
+  }
+}
