@@ -1,8 +1,8 @@
-# tuner_main.py
 import os
 import numpy as np
 from ConfigSpace import ConfigurationSpace, Integer, Float
-from smac import BlackBoxFacade, Scenario
+from smac import Scenario
+from smac.facade.hyperparameter_optimization_facade import HyperparameterOptimizationFacade
 
 # Imports do Pymoo
 from pymoo.algorithms.moo.nsga3 import NSGA3
@@ -14,8 +14,8 @@ from pymoo.indicators.hv import HV
 from pymoo.operators.crossover.sbx import SBX
 from pymoo.operators.mutation.pm import PolynomialMutation
 from pymoo.decomposition.pbi import PBI
-# Alterado para terminação estrita por número de avaliações
 from pymoo.termination import get_termination
+
 # Importação da especificação experimental declarativa
 from experimental_space import (
     ALGORITHMS, PROBLEMS, N_OBJECTIVES, N_VAR, 
@@ -25,7 +25,6 @@ from experimental_space import (
 )
 
 def build_config_space(algorithm_name: str, seed: int = 42) -> ConfigurationSpace:
-    """Monta o ConfigSpace apenas com os hiperparâmetros reais de sintonia."""
     cs = ConfigurationSpace(seed=seed)
     
     spec = ALGORITHM_SPECS.get(algorithm_name, {})
@@ -66,14 +65,16 @@ class EvolutionaryTuner:
         static_cfg = ALGORITHM_SPECS[self.algorithm_name]["static"]
         
         crossover_op = SBX(prob=static_cfg["crossover_prob"], eta=static_cfg["crossover_eta"])
-        mutation_op = PolynomialMutation(prob=config["mutation_prob"], eta=static_cfg["mutation_eta"])
+        
+        mut_prob = 1.0 / self.n_var
+        mutation_op = PolynomialMutation(prob=mut_prob, eta=config["mutation_eta"])
 
         ref_dirs = get_reference_directions("energy", self.n_obj, n_points=self.pop_size)
         
         if self.algorithm_name == "MOEAD":
             algorithm = MOEAD(
                 ref_dirs=ref_dirs,
-                n_neighbors=config["n_neighbors"],
+                n_neighbors=static_cfg["n_neighbors"],
                 decomposition=self._get_decomposition_func(static_cfg, config),
                 crossover=crossover_op,
                 mutation=mutation_op
@@ -109,15 +110,14 @@ class EvolutionaryTuner:
             
             hv_value = HV(ref_point=ref_point_fixo).do(F_norm)
             if hv_value > 0:
-                return float(1.0 - hv_value)
+                return float(- hv_value)
             
             dist_relativa = np.mean(np.maximum(0, (F_norm - ref_point_fixo) / ref_point_fixo))
-            return float(1.0 + np.log1p(dist_relativa))
+            return float(np.log1p(dist_relativa))
 
         return 10.0
 
 if __name__ == "__main__":
-    # Laço mestre executando a matriz completa de experimentos sintonizados
     for algo in ALGORITHMS:
         for prob in PROBLEMS:
             for obj in N_OBJECTIVES:
@@ -140,8 +140,7 @@ if __name__ == "__main__":
                         n_workers=N_PARALLEL_WORKERS,
                         output_directory=output_dir
                     )
-
-                    smac = BlackBoxFacade(scenario, tuner.train, overwrite=True)
+                    smac = HyperparameterOptimizationFacade(scenario, tuner.train, overwrite=True)
                     incumbent = smac.optimize()
 
                     print(f"[SUCCESS] Melhor configuração obtida:")
