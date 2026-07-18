@@ -1,4 +1,6 @@
 import os
+import json
+import glob
 import numpy as np
 from ConfigSpace import ConfigurationSpace, Integer, Float
 from smac import Scenario
@@ -38,6 +40,24 @@ def build_config_space(algorithm_name: str, seed: int = 42) -> ConfigurationSpac
             
     return cs
 
+def is_scenario_finished(output_dir: str) -> bool:
+   
+    if not os.path.exists(output_dir):
+        print ("aqui")
+        return False
+        
+    json_files = glob.glob(os.path.join(output_dir, "**", "optimization.json"), recursive=True)
+    
+    for file_path in json_files:
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+                if data.get("finished", False):
+                    return True
+        except (json.JSONDecodeError, OSError):
+            continue
+            
+    return False
 
 class EvolutionaryTuner:
     def __init__(self, algorithm_name: str, problem_name: str, n_obj: int, n_var: int):
@@ -126,7 +146,11 @@ if __name__ == "__main__":
                         continue
                         
                     output_dir = f"resultados_{algo.lower()}_{prob}_{obj}obj_{var}var"
-                    
+
+                    if is_scenario_finished(output_dir):
+                        print(f"[SKIP] Cenário concluído previamente: {algo} | {prob} | {obj} Objetivos | {var} Variáveis")
+                        continue
+
                     print(f"\n[START] Sintonizando: {algo} | {prob} | {obj} Objetivos | {var} Variáveis")
                     print(f"Diretório de Saída: {output_dir}")
                     
