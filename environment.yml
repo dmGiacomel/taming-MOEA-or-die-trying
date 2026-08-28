@@ -16,6 +16,7 @@ dependencies:
 - tqdm
 - joblib
 - pyyaml
+- swig
 - pip
 - pip:
     - stable-baselines3
@@ -23,3 +24,4 @@ dependencies:
     - pymoo
     - configspace
     - smac
+    - gymnasium[box2d]
