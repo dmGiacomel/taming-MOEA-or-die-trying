@@ -1,0 +1,830 @@
+{
+  "type": "Scheduler",
+  "id": "Scheduler-eb6399e4-6fb0-476a-9243-232d626ee65e",
+  "address": "tcp://127.0.0.1:39915",
+  "services": {
+    "dashboard": 43945
+  },
+  "started": 1784297525.9184084,
+  "n_workers": 16,
+  "total_threads": 16,
+  "total_memory": 25636184064,
+  "workers": {
+    "tcp://127.0.0.1:34549": {
+      "type": "Worker",
+      "id": 1,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-y5eirped",
+      "name": 1,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7351055,
+      "services": {
+        "dashboard": 45819
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165875712,
+        "time": 1784297527.6853845,
+        "host_net_io": {
+          "read_bps": 501968.45190813026,
+          "write_bps": 501968.45190813026
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:34453"
+    },
+    "tcp://127.0.0.1:34667": {
+      "type": "Worker",
+      "id": 5,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-62vyw5vn",
+      "name": 5,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7210803,
+      "services": {
+        "dashboard": 36001
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165441536,
+        "time": 1784297527.6538093,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:46345"
+    },
+    "tcp://127.0.0.1:35215": {
+      "type": "Worker",
+      "id": 6,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-1njtq2rz",
+      "name": 6,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7342415,
+      "services": {
+        "dashboard": 46407
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165691392,
+        "time": 1784297527.683949,
+        "host_net_io": {
+          "read_bps": 510343.4401744936,
+          "write_bps": 510343.4401744936
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:38219"
+    },
+    "tcp://127.0.0.1:35359": {
+      "type": "Worker",
+      "id": 15,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-4zuh5q7w",
+      "name": 15,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7737284,
+      "services": {
+        "dashboard": 37263
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165724160,
+        "time": 1784297527.7492645,
+        "host_net_io": {
+          "read_bps": 459473.32635480113,
+          "write_bps": 459473.32635480113
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:34781"
+    },
+    "tcp://127.0.0.1:37179": {
+      "type": "Worker",
+      "id": 7,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-i4bezw_8",
+      "name": 7,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7580554,
+      "services": {
+        "dashboard": 38301
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165531648,
+        "time": 1784297527.7263634,
+        "host_net_io": {
+          "read_bps": 480862.6029057993,
+          "write_bps": 480862.6029057993
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:46587"
+    },
+    "tcp://127.0.0.1:37775": {
+      "type": "Worker",
+      "id": 14,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-nec7odin",
+      "name": 14,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7531266,
+      "services": {
+        "dashboard": 32793
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165736448,
+        "time": 1784297527.7142441,
+        "host_net_io": {
+          "read_bps": 268414.1984259506,
+          "write_bps": 268414.1984259506
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:45353"
+    },
+    "tcp://127.0.0.1:37973": {
+      "type": "Worker",
+      "id": 13,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-ast_9u_h",
+      "name": 13,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.8136494,
+      "services": {
+        "dashboard": 39917
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165527552,
+        "time": 1784297527.790221,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:33797"
+    },
+    "tcp://127.0.0.1:40233": {
+      "type": "Worker",
+      "id": 3,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-cdou1kfl",
+      "name": 3,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.682247,
+      "services": {
+        "dashboard": 46045
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165605376,
+        "time": 1784297527.6109304,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:35139"
+    },
+    "tcp://127.0.0.1:40615": {
+      "type": "Worker",
+      "id": 4,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-a_sphrgg",
+      "name": 4,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.746451,
+      "services": {
+        "dashboard": 41779
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165519360,
+        "time": 1784297527.7023013,
+        "host_net_io": {
+          "read_bps": 212358.25500977054,
+          "write_bps": 212358.25500977054
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:35333"
+    },
+    "tcp://127.0.0.1:41603": {
+      "type": "Worker",
+      "id": 12,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-du2_rbk3",
+      "name": 12,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.773156,
+      "services": {
+        "dashboard": 35325
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165707776,
+        "time": 1784297527.7473216,
+        "host_net_io": {
+          "read_bps": 374360.1211857283,
+          "write_bps": 374360.1211857283
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:46445"
+    },
+    "tcp://127.0.0.1:42417": {
+      "type": "Worker",
+      "id": 10,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-cax_c4ra",
+      "name": 10,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7111344,
+      "services": {
+        "dashboard": 42513
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165560320,
+        "time": 1784297527.64406,
+        "host_net_io": {
+          "read_bps": 59367.47715856304,
+          "write_bps": 59367.47715856304
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:44455"
+    },
+    "tcp://127.0.0.1:42709": {
+      "type": "Worker",
+      "id": 11,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-2c6d06bl",
+      "name": 11,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7557294,
+      "services": {
+        "dashboard": 38921
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 166076416,
+        "time": 1784297527.719272,
+        "host_net_io": {
+          "read_bps": 168224.65787100233,
+          "write_bps": 168224.65787100233
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:46169"
+    },
+    "tcp://127.0.0.1:43181": {
+      "type": "Worker",
+      "id": 8,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-jl4c98ci",
+      "name": 8,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.7348285,
+      "services": {
+        "dashboard": 37585
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165609472,
+        "time": 1784297527.6853077,
+        "host_net_io": {
+          "read_bps": 401447.5602975645,
+          "write_bps": 401447.5602975645
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:36351"
+    },
+    "tcp://127.0.0.1:43645": {
+      "type": "Worker",
+      "id": 9,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-b2ecmvwp",
+      "name": 9,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.6711457,
+      "services": {
+        "dashboard": 39709
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165711872,
+        "time": 1784297527.6038444,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:39865"
+    },
+    "tcp://127.0.0.1:44811": {
+      "type": "Worker",
+      "id": 0,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-xux2zfnu",
+      "name": 0,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.6812189,
+      "services": {
+        "dashboard": 33807
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 165310464,
+        "time": 1784297527.613035,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:42883"
+    },
+    "tcp://127.0.0.1:44919": {
+      "type": "Worker",
+      "id": 2,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/mnt/c/Davi/Mestrado/taming-MOEA-or-die-trying/Estudo Piloto/resultados_moead_dtlz1_2obj_20var/dask-scratch-space/worker-vo58hip3",
+      "name": 2,
+      "nthreads": 1,
+      "memory_limit": 1602261504,
+      "last_seen": 1784297527.672321,
+      "services": {
+        "dashboard": 37333
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 166060032,
+        "time": 1784297527.6044016,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:35247"
+    }
+  }
+}

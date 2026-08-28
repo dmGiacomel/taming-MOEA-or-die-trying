@@ -1,0 +1,3858 @@
+{
+  "stats": {
+    "submitted": 220,
+    "finished": 220,
+    "running": 0
+  },
+  "data": [
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4134119157103035,
+      "time": 275.7166557312012,
+      "cpu_time": 234.48638763199997,
+      "status": 1,
+      "starttime": 1784469030.3407462,
+      "endtime": 1784469306.0579314,
+      "additional_info": {}
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4148575030580488,
+      "time": 271.1479375362396,
+      "cpu_time": 232.761724947,
+      "status": 1,
+      "starttime": 1784469030.3546968,
+      "endtime": 1784469301.5032318,
+      "additional_info": {}
+    },
+    {
+      "config_id": 3,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4135119485425082,
+      "time": 270.9563522338867,
+      "cpu_time": 231.979726079,
+      "status": 1,
+      "starttime": 1784469030.3711183,
+      "endtime": 1784469301.3280327,
+      "additional_info": {}
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4153556734808346,
+      "time": 270.81927156448364,
+      "cpu_time": 232.652767401,
+      "status": 1,
+      "starttime": 1784469030.3922899,
+      "endtime": 1784469301.2121878,
+      "additional_info": {}
+    },
+    {
+      "config_id": 5,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41201211540822946,
+      "time": 270.0348036289215,
+      "cpu_time": 231.49349999400002,
+      "status": 1,
+      "starttime": 1784469030.4136336,
+      "endtime": 1784469300.449234,
+      "additional_info": {}
+    },
+    {
+      "config_id": 6,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41517896997401427,
+      "time": 269.3527481555939,
+      "cpu_time": 229.11852485999998,
+      "status": 1,
+      "starttime": 1784469030.4385066,
+      "endtime": 1784469299.7923207,
+      "additional_info": {}
+    },
+    {
+      "config_id": 7,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4045794959566599,
+      "time": 274.8628189563751,
+      "cpu_time": 233.273191884,
+      "status": 1,
+      "starttime": 1784469030.4816992,
+      "endtime": 1784469305.3454726,
+      "additional_info": {}
+    },
+    {
+      "config_id": 8,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41428816120294476,
+      "time": 271.34897541999817,
+      "cpu_time": 230.771157211,
+      "status": 1,
+      "starttime": 1784469030.5068505,
+      "endtime": 1784469301.8564944,
+      "additional_info": {}
+    },
+    {
+      "config_id": 9,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.412069720152349,
+      "time": 272.234911441803,
+      "cpu_time": 230.83117764899998,
+      "status": 1,
+      "starttime": 1784469030.5967078,
+      "endtime": 1784469302.8322966,
+      "additional_info": {}
+    },
+    {
+      "config_id": 10,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4105899867113672,
+      "time": 270.778799533844,
+      "cpu_time": 230.31015618700002,
+      "status": 1,
+      "starttime": 1784469030.7041395,
+      "endtime": 1784469301.4835885,
+      "additional_info": {}
+    },
+    {
+      "config_id": 11,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41498725452034824,
+      "time": 274.6134078502655,
+      "cpu_time": 232.81609448,
+      "status": 1,
+      "starttime": 1784469030.782408,
+      "endtime": 1784469305.3966463,
+      "additional_info": {}
+    },
+    {
+      "config_id": 12,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41371994420528097,
+      "time": 274.46715116500854,
+      "cpu_time": 232.824648478,
+      "status": 1,
+      "starttime": 1784469030.8761072,
+      "endtime": 1784469305.344025,
+      "additional_info": {}
+    },
+    {
+      "config_id": 13,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4132568513788236,
+      "time": 273.8084490299225,
+      "cpu_time": 231.535132772,
+      "status": 1,
+      "starttime": 1784469031.0086179,
+      "endtime": 1784469304.8178508,
+      "additional_info": {}
+    },
+    {
+      "config_id": 14,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.1927835652844923,
+      "time": 264.2103109359741,
+      "cpu_time": 225.75834632599998,
+      "status": 1,
+      "starttime": 1784469031.4624841,
+      "endtime": 1784469295.673362,
+      "additional_info": {}
+    },
+    {
+      "config_id": 15,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41011028697215984,
+      "time": 261.33855724334717,
+      "cpu_time": 229.512938517,
+      "status": 1,
+      "starttime": 1784469295.716954,
+      "endtime": 1784469557.055934,
+      "additional_info": {}
+    },
+    {
+      "config_id": 14,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.19847438277294616,
+      "time": 252.61689138412476,
+      "cpu_time": 222.689858451,
+      "status": 1,
+      "starttime": 1784469299.8603256,
+      "endtime": 1784469552.4793515,
+      "additional_info": {}
+    },
+    {
+      "config_id": 16,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4150655928598232,
+      "time": 263.63461923599243,
+      "cpu_time": 230.21079341300003,
+      "status": 1,
+      "starttime": 1784469300.5005655,
+      "endtime": 1784469564.1357236,
+      "additional_info": {}
+    },
+    {
+      "config_id": 6,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.40999319532840195,
+      "time": 264.3486566543579,
+      "cpu_time": 231.73318334799998,
+      "status": 1,
+      "starttime": 1784469301.2831216,
+      "endtime": 1784469565.6322594,
+      "additional_info": {}
+    },
+    {
+      "config_id": 17,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41434553570043164,
+      "time": 264.76299500465393,
+      "cpu_time": 232.50299522799997,
+      "status": 1,
+      "starttime": 1784469301.3808553,
+      "endtime": 1784469566.144316,
+      "additional_info": {}
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41199689612464346,
+      "time": 260.5730276107788,
+      "cpu_time": 228.17945464500002,
+      "status": 1,
+      "starttime": 1784469301.525957,
+      "endtime": 1784469562.0994837,
+      "additional_info": {}
+    },
+    {
+      "config_id": 18,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41110588185767516,
+      "time": 265.498117685318,
+      "cpu_time": 232.122715086,
+      "status": 1,
+      "starttime": 1784469301.6649773,
+      "endtime": 1784469567.1636512,
+      "additional_info": {}
+    },
+    {
+      "config_id": 19,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.411065749198552,
+      "time": 259.44349670410156,
+      "cpu_time": 228.508356011,
+      "status": 1,
+      "starttime": 1784469301.9262707,
+      "endtime": 1784469561.370758,
+      "additional_info": {}
+    },
+    {
+      "config_id": 20,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.3107925775287611,
+      "time": 260.6510398387909,
+      "cpu_time": 228.124022525,
+      "status": 1,
+      "starttime": 1784469302.882707,
+      "endtime": 1784469563.5342267,
+      "additional_info": {}
+    },
+    {
+      "config_id": 21,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.406769102697653,
+      "time": 262.81446981430054,
+      "cpu_time": 229.987304521,
+      "status": 1,
+      "starttime": 1784469306.2192996,
+      "endtime": 1784469569.034392,
+      "additional_info": {}
+    },
+    {
+      "config_id": 22,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41207245192977726,
+      "time": 266.4938201904297,
+      "cpu_time": 234.03384848099998,
+      "status": 1,
+      "starttime": 1784469306.3799493,
+      "endtime": 1784469572.8742886,
+      "additional_info": {}
+    },
+    {
+      "config_id": 23,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4076107820717372,
+      "time": 267.41753220558167,
+      "cpu_time": 232.316785194,
+      "status": 1,
+      "starttime": 1784469306.4095826,
+      "endtime": 1784469573.8283284,
+      "additional_info": {}
+    },
+    {
+      "config_id": 24,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40733182121585965,
+      "time": 261.0538983345032,
+      "cpu_time": 229.909941917,
+      "status": 1,
+      "starttime": 1784469306.4463265,
+      "endtime": 1784469567.5009925,
+      "additional_info": {}
+    },
+    {
+      "config_id": 25,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40990556426599195,
+      "time": 262.5007960796356,
+      "cpu_time": 230.31948299699997,
+      "status": 1,
+      "starttime": 1784469306.488001,
+      "endtime": 1784469568.989808,
+      "additional_info": {}
+    },
+    {
+      "config_id": 26,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41348683790985635,
+      "time": 258.2490508556366,
+      "cpu_time": 226.852242848,
+      "status": 1,
+      "starttime": 1784469552.5368636,
+      "endtime": 1784469810.7870052,
+      "additional_info": {}
+    },
+    {
+      "config_id": 27,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40900766262338123,
+      "time": 261.0850303173065,
+      "cpu_time": 229.395227061,
+      "status": 1,
+      "starttime": 1784469557.1156332,
+      "endtime": 1784469818.2034755,
+      "additional_info": {}
+    },
+    {
+      "config_id": 28,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.407062218576069,
+      "time": 259.7454059123993,
+      "cpu_time": 228.80793428699997,
+      "status": 1,
+      "starttime": 1784469561.4140677,
+      "endtime": 1784469821.1616468,
+      "additional_info": {}
+    },
+    {
+      "config_id": 29,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41266751067117907,
+      "time": 259.1317045688629,
+      "cpu_time": 227.11944447000002,
+      "status": 1,
+      "starttime": 1784469565.3241096,
+      "endtime": 1784469824.4563,
+      "additional_info": {}
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.4149195166936962,
+      "time": 264.5552568435669,
+      "cpu_time": 229.538637968,
+      "status": 1,
+      "starttime": 1784469565.4298,
+      "endtime": 1784469829.9856374,
+      "additional_info": {}
+    },
+    {
+      "config_id": 30,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41522147796503617,
+      "time": 259.64478635787964,
+      "cpu_time": 228.47911122,
+      "status": 1,
+      "starttime": 1784469565.4727488,
+      "endtime": 1784469825.1186993,
+      "additional_info": {}
+    },
+    {
+      "config_id": 31,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41344115357832556,
+      "time": 260.2047960758209,
+      "cpu_time": 228.98454509099997,
+      "status": 1,
+      "starttime": 1784469565.7039526,
+      "endtime": 1784469825.9092882,
+      "additional_info": {}
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41688226621933877,
+      "time": 266.9519205093384,
+      "cpu_time": 232.72840385399996,
+      "status": 1,
+      "starttime": 1784469566.2070198,
+      "endtime": 1784469833.1595187,
+      "additional_info": {}
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41558112507225725,
+      "time": 263.8623173236847,
+      "cpu_time": 231.250115898,
+      "status": 1,
+      "starttime": 1784469567.213858,
+      "endtime": 1784469831.077121,
+      "additional_info": {}
+    },
+    {
+      "config_id": 34,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41667779182664044,
+      "time": 259.6867003440857,
+      "cpu_time": 228.22556862499994,
+      "status": 1,
+      "starttime": 1784469567.5601392,
+      "endtime": 1784469827.247341,
+      "additional_info": {}
+    },
+    {
+      "config_id": 35,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41410556965880296,
+      "time": 263.418105840683,
+      "cpu_time": 229.447737168,
+      "status": 1,
+      "starttime": 1784469569.0824194,
+      "endtime": 1784469832.5009916,
+      "additional_info": {}
+    },
+    {
+      "config_id": 36,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4114567268142001,
+      "time": 259.82498002052307,
+      "cpu_time": 228.20139889900003,
+      "status": 1,
+      "starttime": 1784469569.210994,
+      "endtime": 1784469829.0364847,
+      "additional_info": {}
+    },
+    {
+      "config_id": 37,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.415694619144727,
+      "time": 264.0943536758423,
+      "cpu_time": 232.101849786,
+      "status": 1,
+      "starttime": 1784469572.9128737,
+      "endtime": 1784469837.0075996,
+      "additional_info": {}
+    },
+    {
+      "config_id": 38,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4138675431709652,
+      "time": 258.07485580444336,
+      "cpu_time": 228.68743236600005,
+      "status": 1,
+      "starttime": 1784469575.2745464,
+      "endtime": 1784469833.3515692,
+      "additional_info": {}
+    },
+    {
+      "config_id": 39,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41461706708395274,
+      "time": 261.39474177360535,
+      "cpu_time": 228.60935324399998,
+      "status": 1,
+      "starttime": 1784469810.8352594,
+      "endtime": 1784470072.2305472,
+      "additional_info": {}
+    },
+    {
+      "config_id": 40,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4187021404281772,
+      "time": 260.8017876148224,
+      "cpu_time": 228.65958142800002,
+      "status": 1,
+      "starttime": 1784469818.2530751,
+      "endtime": 1784470079.0553205,
+      "additional_info": {}
+    },
+    {
+      "config_id": 41,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4143017976010064,
+      "time": 261.94955706596375,
+      "cpu_time": 229.367942319,
+      "status": 1,
+      "starttime": 1784469821.2061725,
+      "endtime": 1784470083.1562898,
+      "additional_info": {}
+    },
+    {
+      "config_id": 42,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.418159485517424,
+      "time": 260.93987798690796,
+      "cpu_time": 229.048989732,
+      "status": 1,
+      "starttime": 1784469824.499739,
+      "endtime": 1784470085.4446816,
+      "additional_info": {}
+    },
+    {
+      "config_id": 43,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4180305107652531,
+      "time": 261.21507954597473,
+      "cpu_time": 229.809643952,
+      "status": 1,
+      "starttime": 1784469825.1836264,
+      "endtime": 1784470086.4006317,
+      "additional_info": {}
+    },
+    {
+      "config_id": 44,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.414304669184638,
+      "time": 262.5922586917877,
+      "cpu_time": 230.51584830399997,
+      "status": 1,
+      "starttime": 1784469825.9634502,
+      "endtime": 1784470088.5563414,
+      "additional_info": {}
+    },
+    {
+      "config_id": 45,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4117514213890505,
+      "time": 261.0446469783783,
+      "cpu_time": 229.49258434700005,
+      "status": 1,
+      "starttime": 1784469829.0699744,
+      "endtime": 1784470090.115252,
+      "additional_info": {}
+    },
+    {
+      "config_id": 34,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4183767280312986,
+      "time": 260.3165593147278,
+      "cpu_time": 228.76637348200006,
+      "status": 1,
+      "starttime": 1784469829.2191355,
+      "endtime": 1784470089.5362024,
+      "additional_info": {}
+    },
+    {
+      "config_id": 46,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41400294936513077,
+      "time": 262.5815532207489,
+      "cpu_time": 230.99178755899993,
+      "status": 1,
+      "starttime": 1784469831.5629294,
+      "endtime": 1784470094.144941,
+      "additional_info": {}
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4157928826704664,
+      "time": 258.8523316383362,
+      "cpu_time": 227.53337456099996,
+      "status": 1,
+      "starttime": 1784469831.6394773,
+      "endtime": 1784470090.4927118,
+      "additional_info": {}
+    },
+    {
+      "config_id": 47,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41557988188497613,
+      "time": 264.41798639297485,
+      "cpu_time": 230.924617323,
+      "status": 1,
+      "starttime": 1784469832.584015,
+      "endtime": 1784470097.0052524,
+      "additional_info": {}
+    },
+    {
+      "config_id": 48,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4152034129360568,
+      "time": 262.9432053565979,
+      "cpu_time": 231.14745045299992,
+      "status": 1,
+      "starttime": 1784469833.2042756,
+      "endtime": 1784470096.1481068,
+      "additional_info": {}
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4170997301884495,
+      "time": 258.9875292778015,
+      "cpu_time": 227.94272867099994,
+      "status": 1,
+      "starttime": 1784469833.399433,
+      "endtime": 1784470092.387565,
+      "additional_info": {}
+    },
+    {
+      "config_id": 49,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4136626020302196,
+      "time": 262.73325848579407,
+      "cpu_time": 231.25553507799998,
+      "status": 1,
+      "starttime": 1784469837.1295137,
+      "endtime": 1784470099.8632925,
+      "additional_info": {}
+    },
+    {
+      "config_id": 37,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4126397740987404,
+      "time": 264.06811785697937,
+      "cpu_time": 230.4904300579999,
+      "status": 1,
+      "starttime": 1784470072.2774076,
+      "endtime": 1784470336.3459437,
+      "additional_info": {}
+    },
+    {
+      "config_id": 50,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4106479479619882,
+      "time": 261.09935569763184,
+      "cpu_time": 229.98607823499992,
+      "status": 1,
+      "starttime": 1784470079.1088698,
+      "endtime": 1784470340.2087798,
+      "additional_info": {}
+    },
+    {
+      "config_id": 40,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.40714389310031857,
+      "time": 262.0215525627136,
+      "cpu_time": 230.93216731600012,
+      "status": 1,
+      "starttime": 1784470083.199108,
+      "endtime": 1784470345.2216222,
+      "additional_info": {}
+    },
+    {
+      "config_id": 51,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41633605775572563,
+      "time": 263.4607446193695,
+      "cpu_time": 230.87123073299995,
+      "status": 1,
+      "starttime": 1784470085.495095,
+      "endtime": 1784470348.9564967,
+      "additional_info": {}
+    },
+    {
+      "config_id": 42,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41841153547125803,
+      "time": 262.9603273868561,
+      "cpu_time": 231.193245349,
+      "status": 1,
+      "starttime": 1784470086.4516058,
+      "endtime": 1784470349.41243,
+      "additional_info": {}
+    },
+    {
+      "config_id": 43,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41510115696228617,
+      "time": 265.43781876564026,
+      "cpu_time": 233.23897179599987,
+      "status": 1,
+      "starttime": 1784470088.6095266,
+      "endtime": 1784470354.0478294,
+      "additional_info": {}
+    },
+    {
+      "config_id": 52,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41190721984432543,
+      "time": 265.6271450519562,
+      "cpu_time": 232.29368047399998,
+      "status": 1,
+      "starttime": 1784470089.5954778,
+      "endtime": 1784470355.223687,
+      "additional_info": {}
+    },
+    {
+      "config_id": 34,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.41430891357413313,
+      "time": 263.70700550079346,
+      "cpu_time": 232.2365382549999,
+      "status": 1,
+      "starttime": 1784470090.1631896,
+      "endtime": 1784470353.8709295,
+      "additional_info": {}
+    },
+    {
+      "config_id": 53,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41331788592373647,
+      "time": 269.53801798820496,
+      "cpu_time": 235.70421108199992,
+      "status": 1,
+      "starttime": 1784470094.802505,
+      "endtime": 1784470364.3411586,
+      "additional_info": {}
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.4140446283699483,
+      "time": 265.6746094226837,
+      "cpu_time": 232.03994095500002,
+      "status": 1,
+      "starttime": 1784470094.9291112,
+      "endtime": 1784470360.6051211,
+      "additional_info": {}
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.41428253864007086,
+      "time": 264.95938372612,
+      "cpu_time": 232.99090942399994,
+      "status": 1,
+      "starttime": 1784470094.972789,
+      "endtime": 1784470359.932653,
+      "additional_info": {}
+    },
+    {
+      "config_id": 54,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41311497909063444,
+      "time": 269.32142639160156,
+      "cpu_time": 235.43650178300004,
+      "status": 1,
+      "starttime": 1784470096.191485,
+      "endtime": 1784470365.5139072,
+      "additional_info": {}
+    },
+    {
+      "config_id": 55,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40498019457755174,
+      "time": 264.0134868621826,
+      "cpu_time": 232.6007606820001,
+      "status": 1,
+      "starttime": 1784470097.055206,
+      "endtime": 1784470361.0692904,
+      "additional_info": {}
+    },
+    {
+      "config_id": 47,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4099185066784806,
+      "time": 270.3247971534729,
+      "cpu_time": 235.78950890300007,
+      "status": 1,
+      "starttime": 1784470099.9134097,
+      "endtime": 1784470370.238771,
+      "additional_info": {}
+    },
+    {
+      "config_id": 56,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41636575109300783,
+      "time": 266.28990840911865,
+      "cpu_time": 232.94821114399997,
+      "status": 1,
+      "starttime": 1784470336.3925612,
+      "endtime": 1784470602.6828942,
+      "additional_info": {}
+    },
+    {
+      "config_id": 37,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.4145150196355395,
+      "time": 266.0921878814697,
+      "cpu_time": 234.01843702600013,
+      "status": 1,
+      "starttime": 1784470340.2683148,
+      "endtime": 1784470606.3611743,
+      "additional_info": {}
+    },
+    {
+      "config_id": 57,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4094504935639848,
+      "time": 270.9472517967224,
+      "cpu_time": 235.6504600599999,
+      "status": 1,
+      "starttime": 1784470345.2948487,
+      "endtime": 1784470616.242699,
+      "additional_info": {}
+    },
+    {
+      "config_id": 58,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41297870839714323,
+      "time": 263.62816739082336,
+      "cpu_time": 232.496139739,
+      "status": 1,
+      "starttime": 1784470349.016787,
+      "endtime": 1784470612.6456606,
+      "additional_info": {}
+    },
+    {
+      "config_id": 51,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41540235294115485,
+      "time": 268.17851209640503,
+      "cpu_time": 235.08630211900004,
+      "status": 1,
+      "starttime": 1784470349.4627986,
+      "endtime": 1784470617.6417897,
+      "additional_info": {}
+    },
+    {
+      "config_id": 42,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": -0.4170107781800619,
+      "time": 268.1817629337311,
+      "cpu_time": 234.629194677,
+      "status": 1,
+      "starttime": 1784470353.9203262,
+      "endtime": 1784470622.1024892,
+      "additional_info": {}
+    },
+    {
+      "config_id": 59,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4146212025095331,
+      "time": 267.3028883934021,
+      "cpu_time": 235.52582526800006,
+      "status": 1,
+      "starttime": 1784470354.1311984,
+      "endtime": 1784470621.434989,
+      "additional_info": {}
+    },
+    {
+      "config_id": 60,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41677769863421893,
+      "time": 268.48672103881836,
+      "cpu_time": 234.92577099200003,
+      "status": 1,
+      "starttime": 1784470355.2766707,
+      "endtime": 1784470623.76385,
+      "additional_info": {}
+    },
+    {
+      "config_id": 61,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41818725869350676,
+      "time": 269.6624608039856,
+      "cpu_time": 234.75024912100002,
+      "status": 1,
+      "starttime": 1784470361.0641646,
+      "endtime": 1784470630.7271638,
+      "additional_info": {}
+    },
+    {
+      "config_id": 62,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41584402784816493,
+      "time": 266.31227827072144,
+      "cpu_time": 234.12331681700016,
+      "status": 1,
+      "starttime": 1784470361.1709812,
+      "endtime": 1784470627.4837914,
+      "additional_info": {}
+    },
+    {
+      "config_id": 63,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4091803569405506,
+      "time": 267.66992235183716,
+      "cpu_time": 235.44527423,
+      "status": 1,
+      "starttime": 1784470361.276873,
+      "endtime": 1784470628.9480214,
+      "additional_info": {}
+    },
+    {
+      "config_id": 64,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4123735132043661,
+      "time": 271.2131767272949,
+      "cpu_time": 237.01527162599996,
+      "status": 1,
+      "starttime": 1784470364.4096065,
+      "endtime": 1784470635.626778,
+      "additional_info": {}
+    },
+    {
+      "config_id": 65,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41861268367422805,
+      "time": 272.81598353385925,
+      "cpu_time": 237.41239833600002,
+      "status": 1,
+      "starttime": 1784470365.5584078,
+      "endtime": 1784470638.3749838,
+      "additional_info": {}
+    },
+    {
+      "config_id": 66,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4174633484894874,
+      "time": 272.17133355140686,
+      "cpu_time": 238.12006802199994,
+      "status": 1,
+      "starttime": 1784470370.276799,
+      "endtime": 1784470642.4486723,
+      "additional_info": {}
+    },
+    {
+      "config_id": 67,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41752892930788454,
+      "time": 264.97761821746826,
+      "cpu_time": 233.3336540129999,
+      "status": 1,
+      "starttime": 1784470602.7151067,
+      "endtime": 1784470867.6932838,
+      "additional_info": {}
+    },
+    {
+      "config_id": 68,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40753910666122395,
+      "time": 264.79680705070496,
+      "cpu_time": 233.68784288899997,
+      "status": 1,
+      "starttime": 1784470606.4177778,
+      "endtime": 1784470871.215788,
+      "additional_info": {}
+    },
+    {
+      "config_id": 69,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4147778261322581,
+      "time": 267.94852566719055,
+      "cpu_time": 233.40051486999982,
+      "status": 1,
+      "starttime": 1784470612.6863282,
+      "endtime": 1784470880.6361926,
+      "additional_info": {}
+    },
+    {
+      "config_id": 70,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41353621424601494,
+      "time": 269.59150886535645,
+      "cpu_time": 235.379693008,
+      "status": 1,
+      "starttime": 1784470616.3199658,
+      "endtime": 1784470885.9119537,
+      "additional_info": {}
+    },
+    {
+      "config_id": 71,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4148508578072593,
+      "time": 268.0876884460449,
+      "cpu_time": 234.55494277499997,
+      "status": 1,
+      "starttime": 1784470617.690043,
+      "endtime": 1784470885.7783473,
+      "additional_info": {}
+    },
+    {
+      "config_id": 72,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41736098739074284,
+      "time": 265.12663221359253,
+      "cpu_time": 234.60110106799993,
+      "status": 1,
+      "starttime": 1784470621.4802237,
+      "endtime": 1784470886.6074412,
+      "additional_info": {}
+    },
+    {
+      "config_id": 73,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41565856808290896,
+      "time": 268.43389892578125,
+      "cpu_time": 234.63079874699997,
+      "status": 1,
+      "starttime": 1784470622.1371062,
+      "endtime": 1784470890.5742524,
+      "additional_info": {}
+    },
+    {
+      "config_id": 74,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4118339082214348,
+      "time": 264.2932813167572,
+      "cpu_time": 233.59517257300013,
+      "status": 1,
+      "starttime": 1784470623.7999406,
+      "endtime": 1784470888.093818,
+      "additional_info": {}
+    },
+    {
+      "config_id": 75,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41428326645707864,
+      "time": 270.78388833999634,
+      "cpu_time": 235.94678984100005,
+      "status": 1,
+      "starttime": 1784470627.5750873,
+      "endtime": 1784470898.3594615,
+      "additional_info": {}
+    },
+    {
+      "config_id": 76,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4153638268034567,
+      "time": 270.3882088661194,
+      "cpu_time": 236.96948427300003,
+      "status": 1,
+      "starttime": 1784470628.9997573,
+      "endtime": 1784470899.388411,
+      "additional_info": {}
+    },
+    {
+      "config_id": 77,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41687693651921454,
+      "time": 269.91244077682495,
+      "cpu_time": 235.46079863499995,
+      "status": 1,
+      "starttime": 1784470634.8186662,
+      "endtime": 1784470904.7320337,
+      "additional_info": {}
+    },
+    {
+      "config_id": 61,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4142601694531208,
+      "time": 270.7800769805908,
+      "cpu_time": 237.13432313599992,
+      "status": 1,
+      "starttime": 1784470635.6673412,
+      "endtime": 1784470906.4478915,
+      "additional_info": {}
+    },
+    {
+      "config_id": 78,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.417747493278435,
+      "time": 272.5225234031677,
+      "cpu_time": 238.17116531700003,
+      "status": 1,
+      "starttime": 1784470638.4157581,
+      "endtime": 1784470910.9389443,
+      "additional_info": {}
+    },
+    {
+      "config_id": 65,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41416494105178703,
+      "time": 273.39337372779846,
+      "cpu_time": 237.9490137429998,
+      "status": 1,
+      "starttime": 1784470642.4916687,
+      "endtime": 1784470915.8854735,
+      "additional_info": {}
+    },
+    {
+      "config_id": 79,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.409351982809093,
+      "time": 265.34416699409485,
+      "cpu_time": 233.06786476600018,
+      "status": 1,
+      "starttime": 1784470867.7556748,
+      "endtime": 1784471133.100287,
+      "additional_info": {}
+    },
+    {
+      "config_id": 80,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.418010330265112,
+      "time": 268.20053339004517,
+      "cpu_time": 234.01625624099984,
+      "status": 1,
+      "starttime": 1784470871.287083,
+      "endtime": 1784471139.488092,
+      "additional_info": {}
+    },
+    {
+      "config_id": 81,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4160246052518633,
+      "time": 268.3656876087189,
+      "cpu_time": 234.006462026,
+      "status": 1,
+      "starttime": 1784470880.686385,
+      "endtime": 1784471149.0526478,
+      "additional_info": {}
+    },
+    {
+      "config_id": 82,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41347350068656136,
+      "time": 268.71301794052124,
+      "cpu_time": 235.69835444599994,
+      "status": 1,
+      "starttime": 1784470885.8455808,
+      "endtime": 1784471154.5590365,
+      "additional_info": {}
+    },
+    {
+      "config_id": 83,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4149280498970751,
+      "time": 267.2830355167389,
+      "cpu_time": 234.8461109929999,
+      "status": 1,
+      "starttime": 1784470885.9921508,
+      "endtime": 1784471153.2757509,
+      "additional_info": {}
+    },
+    {
+      "config_id": 84,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41854754930665405,
+      "time": 267.7841510772705,
+      "cpu_time": 235.48206350400005,
+      "status": 1,
+      "starttime": 1784470886.6572554,
+      "endtime": 1784471154.4418228,
+      "additional_info": {}
+    },
+    {
+      "config_id": 85,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.17284212834673063,
+      "time": 261.896612405777,
+      "cpu_time": 229.08320677999995,
+      "status": 1,
+      "starttime": 1784470890.4393334,
+      "endtime": 1784471152.3365312,
+      "additional_info": {}
+    },
+    {
+      "config_id": 86,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41484726617378764,
+      "time": 269.4841425418854,
+      "cpu_time": 235.39998503599986,
+      "status": 1,
+      "starttime": 1784470892.891653,
+      "endtime": 1784471162.3763454,
+      "additional_info": {}
+    },
+    {
+      "config_id": 87,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4153991649811478,
+      "time": 270.01927065849304,
+      "cpu_time": 235.9702922749998,
+      "status": 1,
+      "starttime": 1784470898.4095767,
+      "endtime": 1784471168.4293013,
+      "additional_info": {}
+    },
+    {
+      "config_id": 88,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41747377691000437,
+      "time": 268.82389783859253,
+      "cpu_time": 235.25628294900002,
+      "status": 1,
+      "starttime": 1784470899.4159389,
+      "endtime": 1784471168.2409306,
+      "additional_info": {}
+    },
+    {
+      "config_id": 89,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4166074668102102,
+      "time": 266.6420292854309,
+      "cpu_time": 234.06316716600008,
+      "status": 1,
+      "starttime": 1784470904.7651017,
+      "endtime": 1784471171.407553,
+      "additional_info": {}
+    },
+    {
+      "config_id": 90,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4136102315607178,
+      "time": 270.67296266555786,
+      "cpu_time": 236.26430150300007,
+      "status": 1,
+      "starttime": 1784470906.4872985,
+      "endtime": 1784471177.1609175,
+      "additional_info": {}
+    },
+    {
+      "config_id": 91,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41555683810415905,
+      "time": 268.6145131587982,
+      "cpu_time": 236.6125134639999,
+      "status": 1,
+      "starttime": 1784470910.9891615,
+      "endtime": 1784471179.6041791,
+      "additional_info": {}
+    },
+    {
+      "config_id": 92,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41701671689171144,
+      "time": 269.3467297554016,
+      "cpu_time": 236.27894387599986,
+      "status": 1,
+      "starttime": 1784470915.9195406,
+      "endtime": 1784471185.2668557,
+      "additional_info": {}
+    },
+    {
+      "config_id": 93,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41470907003717944,
+      "time": 266.6432800292969,
+      "cpu_time": 234.6831465339999,
+      "status": 1,
+      "starttime": 1784471133.1520157,
+      "endtime": 1784471399.7967024,
+      "additional_info": {}
+    },
+    {
+      "config_id": 94,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4146365857068024,
+      "time": 265.82387375831604,
+      "cpu_time": 234.79761931699977,
+      "status": 1,
+      "starttime": 1784471139.533352,
+      "endtime": 1784471405.357748,
+      "additional_info": {}
+    },
+    {
+      "config_id": 95,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41784094252855286,
+      "time": 267.6694903373718,
+      "cpu_time": 234.6906211359999,
+      "status": 1,
+      "starttime": 1784471149.0936904,
+      "endtime": 1784471416.7636693,
+      "additional_info": {}
+    },
+    {
+      "config_id": 96,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.1933759113024684,
+      "time": 266.0254352092743,
+      "cpu_time": 232.5832236839999,
+      "status": 1,
+      "starttime": 1784471152.3788164,
+      "endtime": 1784471418.4047647,
+      "additional_info": {}
+    },
+    {
+      "config_id": 97,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4145118109949081,
+      "time": 271.5451412200928,
+      "cpu_time": 236.48992217600016,
+      "status": 1,
+      "starttime": 1784471153.317505,
+      "endtime": 1784471424.8632698,
+      "additional_info": {}
+    },
+    {
+      "config_id": 98,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.1793992859987384,
+      "time": 264.52788400650024,
+      "cpu_time": 233.3861840569998,
+      "status": 1,
+      "starttime": 1784471154.4955606,
+      "endtime": 1784471419.0241551,
+      "additional_info": {}
+    },
+    {
+      "config_id": 84,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.4102124699345414,
+      "time": 268.9650433063507,
+      "cpu_time": 235.62884619200008,
+      "status": 1,
+      "starttime": 1784471154.620718,
+      "endtime": 1784471423.5866494,
+      "additional_info": {}
+    },
+    {
+      "config_id": 99,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4149712825737755,
+      "time": 270.80758571624756,
+      "cpu_time": 236.68992865100017,
+      "status": 1,
+      "starttime": 1784471162.428135,
+      "endtime": 1784471433.2362797,
+      "additional_info": {}
+    },
+    {
+      "config_id": 100,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4116563553201231,
+      "time": 270.25423645973206,
+      "cpu_time": 236.66288896900028,
+      "status": 1,
+      "starttime": 1784471168.2886627,
+      "endtime": 1784471438.5433815,
+      "additional_info": {}
+    },
+    {
+      "config_id": 101,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.39991965704936044,
+      "time": 273.2107484340668,
+      "cpu_time": 237.82472565700004,
+      "status": 1,
+      "starttime": 1784471174.009193,
+      "endtime": 1784471447.2204275,
+      "additional_info": {}
+    },
+    {
+      "config_id": 102,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41309379488118697,
+      "time": 272.7750120162964,
+      "cpu_time": 237.59932633000017,
+      "status": 1,
+      "starttime": 1784471174.2026486,
+      "endtime": 1784471446.978216,
+      "additional_info": {}
+    },
+    {
+      "config_id": 103,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4084473365685515,
+      "time": 271.7926251888275,
+      "cpu_time": 238.48734645800005,
+      "status": 1,
+      "starttime": 1784471177.218412,
+      "endtime": 1784471449.0114903,
+      "additional_info": {}
+    },
+    {
+      "config_id": 104,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4143758911872005,
+      "time": 271.5415229797363,
+      "cpu_time": 238.20857758499983,
+      "status": 1,
+      "starttime": 1784471179.6527207,
+      "endtime": 1784471451.1948802,
+      "additional_info": {}
+    },
+    {
+      "config_id": 105,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4136932910756297,
+      "time": 272.9079523086548,
+      "cpu_time": 239.47755605600014,
+      "status": 1,
+      "starttime": 1784471185.3110917,
+      "endtime": 1784471458.2201288,
+      "additional_info": {}
+    },
+    {
+      "config_id": 106,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41213256313708835,
+      "time": 263.9847660064697,
+      "cpu_time": 234.015316042,
+      "status": 1,
+      "starttime": 1784471399.8508117,
+      "endtime": 1784471663.836185,
+      "additional_info": {}
+    },
+    {
+      "config_id": 107,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4140949503398773,
+      "time": 273.1003108024597,
+      "cpu_time": 237.4484312139998,
+      "status": 1,
+      "starttime": 1784471405.3879466,
+      "endtime": 1784471678.4888058,
+      "additional_info": {}
+    },
+    {
+      "config_id": 108,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.417006626268577,
+      "time": 267.55822563171387,
+      "cpu_time": 234.95679255899995,
+      "status": 1,
+      "starttime": 1784471416.8035266,
+      "endtime": 1784471684.3622787,
+      "additional_info": {}
+    },
+    {
+      "config_id": 109,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41763240170598964,
+      "time": 274.68126249313354,
+      "cpu_time": 239.48677325499966,
+      "status": 1,
+      "starttime": 1784471422.0824082,
+      "endtime": 1784471696.764288,
+      "additional_info": {}
+    },
+    {
+      "config_id": 110,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4138597733642743,
+      "time": 266.2041108608246,
+      "cpu_time": 234.68310388700002,
+      "status": 1,
+      "starttime": 1784471422.2129452,
+      "endtime": 1784471688.4175115,
+      "additional_info": {}
+    },
+    {
+      "config_id": 111,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41598150991762856,
+      "time": 274.2210717201233,
+      "cpu_time": 236.79150290100006,
+      "status": 1,
+      "starttime": 1784471423.6200335,
+      "endtime": 1784471697.84172,
+      "additional_info": {}
+    },
+    {
+      "config_id": 112,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4187565790955931,
+      "time": 267.7930996417999,
+      "cpu_time": 235.47857306800006,
+      "status": 1,
+      "starttime": 1784471424.9383938,
+      "endtime": 1784471692.7320316,
+      "additional_info": {}
+    },
+    {
+      "config_id": 113,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4091888090066253,
+      "time": 269.7062385082245,
+      "cpu_time": 236.01242251299982,
+      "status": 1,
+      "starttime": 1784471433.2766762,
+      "endtime": 1784471702.9835443,
+      "additional_info": {}
+    },
+    {
+      "config_id": 114,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.415799791326286,
+      "time": 270.96431159973145,
+      "cpu_time": 237.16993117500033,
+      "status": 1,
+      "starttime": 1784471438.600617,
+      "endtime": 1784471709.5655894,
+      "additional_info": {}
+    },
+    {
+      "config_id": 115,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.414670089034265,
+      "time": 270.1098153591156,
+      "cpu_time": 236.31196377199967,
+      "status": 1,
+      "starttime": 1784471447.0443132,
+      "endtime": 1784471717.1546786,
+      "additional_info": {}
+    },
+    {
+      "config_id": 116,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41136318535379157,
+      "time": 271.5161497592926,
+      "cpu_time": 237.50259396599995,
+      "status": 1,
+      "starttime": 1784471447.2629652,
+      "endtime": 1784471718.77967,
+      "additional_info": {}
+    },
+    {
+      "config_id": 117,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4120037758315784,
+      "time": 270.3826148509979,
+      "cpu_time": 238.73453043900008,
+      "status": 1,
+      "starttime": 1784471454.2938569,
+      "endtime": 1784471724.6770742,
+      "additional_info": {}
+    },
+    {
+      "config_id": 118,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4127120296243658,
+      "time": 270.8827257156372,
+      "cpu_time": 238.91545094799994,
+      "status": 1,
+      "starttime": 1784471454.4148457,
+      "endtime": 1784471725.298598,
+      "additional_info": {}
+    },
+    {
+      "config_id": 119,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4138098444141201,
+      "time": 273.7918071746826,
+      "cpu_time": 239.37377834599965,
+      "status": 1,
+      "starttime": 1784471458.2689898,
+      "endtime": 1784471732.061289,
+      "additional_info": {}
+    },
+    {
+      "config_id": 120,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4106816714229018,
+      "time": 269.0705797672272,
+      "cpu_time": 235.5290212570003,
+      "status": 1,
+      "starttime": 1784471663.889848,
+      "endtime": 1784471932.9609895,
+      "additional_info": {}
+    },
+    {
+      "config_id": 121,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41692944306089624,
+      "time": 265.16668176651,
+      "cpu_time": 233.96591766300025,
+      "status": 1,
+      "starttime": 1784471678.5460906,
+      "endtime": 1784471943.7133553,
+      "additional_info": {}
+    },
+    {
+      "config_id": 122,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41494897348535137,
+      "time": 269.29541206359863,
+      "cpu_time": 234.86794200900022,
+      "status": 1,
+      "starttime": 1784471684.393556,
+      "endtime": 1784471953.6894195,
+      "additional_info": {}
+    },
+    {
+      "config_id": 123,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4149582627558763,
+      "time": 270.3507113456726,
+      "cpu_time": 236.47108867899988,
+      "status": 1,
+      "starttime": 1784471688.4659772,
+      "endtime": 1784471958.8172948,
+      "additional_info": {}
+    },
+    {
+      "config_id": 124,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4166002403996333,
+      "time": 270.01265001296997,
+      "cpu_time": 236.4602477049998,
+      "status": 1,
+      "starttime": 1784471692.8130193,
+      "endtime": 1784471962.8263354,
+      "additional_info": {}
+    },
+    {
+      "config_id": 112,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41502988613267877,
+      "time": 269.0089337825775,
+      "cpu_time": 237.36782761199993,
+      "status": 1,
+      "starttime": 1784471696.8079789,
+      "endtime": 1784471965.817506,
+      "additional_info": {}
+    },
+    {
+      "config_id": 125,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4166205053242987,
+      "time": 270.164870262146,
+      "cpu_time": 235.81935225400002,
+      "status": 1,
+      "starttime": 1784471703.6488147,
+      "endtime": 1784471973.8141525,
+      "additional_info": {}
+    },
+    {
+      "config_id": 126,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41300789129961035,
+      "time": 271.74908804893494,
+      "cpu_time": 237.07402425400005,
+      "status": 1,
+      "starttime": 1784471703.7945771,
+      "endtime": 1784471975.5443175,
+      "additional_info": {}
+    },
+    {
+      "config_id": 127,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4111953175550455,
+      "time": 267.5557565689087,
+      "cpu_time": 235.88774631999968,
+      "status": 1,
+      "starttime": 1784471709.6167984,
+      "endtime": 1784471977.1730273,
+      "additional_info": {}
+    },
+    {
+      "config_id": 128,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41294879271794405,
+      "time": 267.25343799591064,
+      "cpu_time": 234.98055176200023,
+      "status": 1,
+      "starttime": 1784471717.2003977,
+      "endtime": 1784471984.4542809,
+      "additional_info": {}
+    },
+    {
+      "config_id": 129,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4123166481492445,
+      "time": 271.9900677204132,
+      "cpu_time": 236.882501907,
+      "status": 1,
+      "starttime": 1784471718.8271666,
+      "endtime": 1784471990.8178859,
+      "additional_info": {}
+    },
+    {
+      "config_id": 130,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4162693886487056,
+      "time": 270.93005180358887,
+      "cpu_time": 237.48623360500005,
+      "status": 1,
+      "starttime": 1784471724.704331,
+      "endtime": 1784471995.6349258,
+      "additional_info": {}
+    },
+    {
+      "config_id": 131,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4098846170809937,
+      "time": 273.4633529186249,
+      "cpu_time": 238.69043984600012,
+      "status": 1,
+      "starttime": 1784471725.3447697,
+      "endtime": 1784471998.8085403,
+      "additional_info": {}
+    },
+    {
+      "config_id": 132,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4172799219744292,
+      "time": 272.3415458202362,
+      "cpu_time": 237.8230485439999,
+      "status": 1,
+      "starttime": 1784471732.1149528,
+      "endtime": 1784472004.4571805,
+      "additional_info": {}
+    },
+    {
+      "config_id": 133,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4140011226138605,
+      "time": 268.8946142196655,
+      "cpu_time": 235.57060027399984,
+      "status": 1,
+      "starttime": 1784471932.9994588,
+      "endtime": 1784472201.8947043,
+      "additional_info": {}
+    },
+    {
+      "config_id": 134,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4168482092250935,
+      "time": 268.58601784706116,
+      "cpu_time": 235.06277498500003,
+      "status": 1,
+      "starttime": 1784471943.7451043,
+      "endtime": 1784472212.3315604,
+      "additional_info": {}
+    },
+    {
+      "config_id": 135,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41366523223093715,
+      "time": 268.4925739765167,
+      "cpu_time": 235.41642751500012,
+      "status": 1,
+      "starttime": 1784471953.725835,
+      "endtime": 1784472222.2190611,
+      "additional_info": {}
+    },
+    {
+      "config_id": 136,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41097532591062347,
+      "time": 272.27358984947205,
+      "cpu_time": 237.416159548,
+      "status": 1,
+      "starttime": 1784471958.8705604,
+      "endtime": 1784472231.1447034,
+      "additional_info": {}
+    },
+    {
+      "config_id": 137,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4152413729390522,
+      "time": 270.2501676082611,
+      "cpu_time": 236.24937811499967,
+      "status": 1,
+      "starttime": 1784471962.8978825,
+      "endtime": 1784472233.1485536,
+      "additional_info": {}
+    },
+    {
+      "config_id": 138,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41688040440006,
+      "time": 273.32501196861267,
+      "cpu_time": 239.01590746300008,
+      "status": 1,
+      "starttime": 1784471965.9140496,
+      "endtime": 1784472239.2397394,
+      "additional_info": {}
+    },
+    {
+      "config_id": 139,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4180719872159178,
+      "time": 269.29117226600647,
+      "cpu_time": 236.29248382099968,
+      "status": 1,
+      "starttime": 1784471973.8510933,
+      "endtime": 1784472243.143435,
+      "additional_info": {}
+    },
+    {
+      "config_id": 140,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4141672162889392,
+      "time": 269.4789288043976,
+      "cpu_time": 236.2016817230001,
+      "status": 1,
+      "starttime": 1784471975.578459,
+      "endtime": 1784472245.0579255,
+      "additional_info": {}
+    },
+    {
+      "config_id": 141,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4152249153595297,
+      "time": 270.86201071739197,
+      "cpu_time": 236.68501138199963,
+      "status": 1,
+      "starttime": 1784471983.2544014,
+      "endtime": 1784472254.1170416,
+      "additional_info": {}
+    },
+    {
+      "config_id": 142,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4146240206253986,
+      "time": 269.01445150375366,
+      "cpu_time": 235.55757343100004,
+      "status": 1,
+      "starttime": 1784471984.4971366,
+      "endtime": 1784472253.5120301,
+      "additional_info": {}
+    },
+    {
+      "config_id": 143,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41296328426023965,
+      "time": 271.80813932418823,
+      "cpu_time": 238.15301517499984,
+      "status": 1,
+      "starttime": 1784471990.873195,
+      "endtime": 1784472262.6818337,
+      "additional_info": {}
+    },
+    {
+      "config_id": 144,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41733498394029295,
+      "time": 271.39770770072937,
+      "cpu_time": 238.27620167999976,
+      "status": 1,
+      "starttime": 1784471995.6691608,
+      "endtime": 1784472267.0676584,
+      "additional_info": {}
+    },
+    {
+      "config_id": 145,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4177407532857709,
+      "time": 271.82990646362305,
+      "cpu_time": 238.76388348699993,
+      "status": 1,
+      "starttime": 1784471998.8528461,
+      "endtime": 1784472270.6833448,
+      "additional_info": {}
+    },
+    {
+      "config_id": 146,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4113940500638647,
+      "time": 273.28940057754517,
+      "cpu_time": 238.6793836259999,
+      "status": 1,
+      "starttime": 1784472004.5035203,
+      "endtime": 1784472277.793507,
+      "additional_info": {}
+    },
+    {
+      "config_id": 147,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41241607032578986,
+      "time": 272.8997759819031,
+      "cpu_time": 237.1723340389999,
+      "status": 1,
+      "starttime": 1784472201.9555728,
+      "endtime": 1784472474.8569462,
+      "additional_info": {}
+    },
+    {
+      "config_id": 148,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41286478238572943,
+      "time": 271.26266288757324,
+      "cpu_time": 237.25878127399983,
+      "status": 1,
+      "starttime": 1784472212.3754363,
+      "endtime": 1784472483.6386378,
+      "additional_info": {}
+    },
+    {
+      "config_id": 149,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4159367035603808,
+      "time": 269.74592328071594,
+      "cpu_time": 235.61574192499984,
+      "status": 1,
+      "starttime": 1784472222.2722356,
+      "endtime": 1784472492.0186992,
+      "additional_info": {}
+    },
+    {
+      "config_id": 150,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4173623427566936,
+      "time": 272.0206379890442,
+      "cpu_time": 237.7585166580002,
+      "status": 1,
+      "starttime": 1784472231.1850562,
+      "endtime": 1784472503.2062926,
+      "additional_info": {}
+    },
+    {
+      "config_id": 151,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4167299408919133,
+      "time": 270.69724011421204,
+      "cpu_time": 237.256557961,
+      "status": 1,
+      "starttime": 1784472233.1943638,
+      "endtime": 1784472503.8920784,
+      "additional_info": {}
+    },
+    {
+      "config_id": 152,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4161101980191669,
+      "time": 271.6710228919983,
+      "cpu_time": 238.27392092499986,
+      "status": 1,
+      "starttime": 1784472239.3061285,
+      "endtime": 1784472510.977695,
+      "additional_info": {}
+    },
+    {
+      "config_id": 153,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.2744106917288897,
+      "time": 268.1909430027008,
+      "cpu_time": 234.76904695899975,
+      "status": 1,
+      "starttime": 1784472243.1897957,
+      "endtime": 1784472511.3812518,
+      "additional_info": {}
+    },
+    {
+      "config_id": 154,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41386127351842333,
+      "time": 269.312331199646,
+      "cpu_time": 236.74716770299983,
+      "status": 1,
+      "starttime": 1784472245.1189315,
+      "endtime": 1784472514.4318,
+      "additional_info": {}
+    },
+    {
+      "config_id": 155,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4157587379661052,
+      "time": 268.61964321136475,
+      "cpu_time": 236.37336914499974,
+      "status": 1,
+      "starttime": 1784472253.5707045,
+      "endtime": 1784472522.1918006,
+      "additional_info": {}
+    },
+    {
+      "config_id": 156,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4124276586040368,
+      "time": 270.5659108161926,
+      "cpu_time": 238.16659785899992,
+      "status": 1,
+      "starttime": 1784472254.156579,
+      "endtime": 1784472524.723968,
+      "additional_info": {}
+    },
+    {
+      "config_id": 157,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.418226803600561,
+      "time": 274.81212639808655,
+      "cpu_time": 238.35111601000017,
+      "status": 1,
+      "starttime": 1784472264.1304257,
+      "endtime": 1784472538.9430761,
+      "additional_info": {}
+    },
+    {
+      "config_id": 158,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4171173284633151,
+      "time": 273.33233070373535,
+      "cpu_time": 240.1842972100003,
+      "status": 1,
+      "starttime": 1784472267.109925,
+      "endtime": 1784472540.443006,
+      "additional_info": {}
+    },
+    {
+      "config_id": 159,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41433990816194594,
+      "time": 274.9124882221222,
+      "cpu_time": 240.192524864,
+      "status": 1,
+      "starttime": 1784472270.718009,
+      "endtime": 1784472545.6309536,
+      "additional_info": {}
+    },
+    {
+      "config_id": 160,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41293492567737006,
+      "time": 276.0370457172394,
+      "cpu_time": 240.1631032549999,
+      "status": 1,
+      "starttime": 1784472277.837833,
+      "endtime": 1784472553.8753698,
+      "additional_info": {}
+    },
+    {
+      "config_id": 161,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41212414610531195,
+      "time": 267.47727608680725,
+      "cpu_time": 235.09233004899988,
+      "status": 1,
+      "starttime": 1784472474.8966155,
+      "endtime": 1784472742.3743987,
+      "additional_info": {}
+    },
+    {
+      "config_id": 162,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41189933079488567,
+      "time": 273.68163776397705,
+      "cpu_time": 238.11322512900006,
+      "status": 1,
+      "starttime": 1784472483.6763022,
+      "endtime": 1784472757.3585572,
+      "additional_info": {}
+    },
+    {
+      "config_id": 163,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4144034174134379,
+      "time": 269.2570743560791,
+      "cpu_time": 235.82903268100017,
+      "status": 1,
+      "starttime": 1784472492.0604877,
+      "endtime": 1784472761.321978,
+      "additional_info": {}
+    },
+    {
+      "config_id": 164,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4141598716995478,
+      "time": 268.7602016925812,
+      "cpu_time": 236.81243438399997,
+      "status": 1,
+      "starttime": 1784472503.2547662,
+      "endtime": 1784472772.0154128,
+      "additional_info": {}
+    },
+    {
+      "config_id": 165,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4106133103732741,
+      "time": 269.8861005306244,
+      "cpu_time": 236.9000324839999,
+      "status": 1,
+      "starttime": 1784472508.7570662,
+      "endtime": 1784472778.6436687,
+      "additional_info": {}
+    },
+    {
+      "config_id": 166,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4153895585536673,
+      "time": 278.55245661735535,
+      "cpu_time": 240.1717049519998,
+      "status": 1,
+      "starttime": 1784472511.9327037,
+      "endtime": 1784472790.4857666,
+      "additional_info": {}
+    },
+    {
+      "config_id": 167,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4153265237277742,
+      "time": 268.57714772224426,
+      "cpu_time": 235.96548782100035,
+      "status": 1,
+      "starttime": 1784472512.091456,
+      "endtime": 1784472780.6691494,
+      "additional_info": {}
+    },
+    {
+      "config_id": 168,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4119319543939091,
+      "time": 270.12068581581116,
+      "cpu_time": 237.29814812899986,
+      "status": 1,
+      "starttime": 1784472514.4843874,
+      "endtime": 1784472784.6055348,
+      "additional_info": {}
+    },
+    {
+      "config_id": 169,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.17285224637449362,
+      "time": 264.7793791294098,
+      "cpu_time": 232.22284873200033,
+      "status": 1,
+      "starttime": 1784472522.2307556,
+      "endtime": 1784472787.0106933,
+      "additional_info": {}
+    },
+    {
+      "config_id": 170,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4101415075247183,
+      "time": 266.81936383247375,
+      "cpu_time": 235.95684049600004,
+      "status": 1,
+      "starttime": 1784472524.779899,
+      "endtime": 1784472791.602374,
+      "additional_info": {}
+    },
+    {
+      "config_id": 171,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40949073375508527,
+      "time": 270.2730760574341,
+      "cpu_time": 237.212489387,
+      "status": 1,
+      "starttime": 1784472538.9838474,
+      "endtime": 1784472809.2578857,
+      "additional_info": {}
+    },
+    {
+      "config_id": 157,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": -0.41143144428584927,
+      "time": 274.66438364982605,
+      "cpu_time": 239.4923519529998,
+      "status": 1,
+      "starttime": 1784472540.482723,
+      "endtime": 1784472815.1476588,
+      "additional_info": {}
+    },
+    {
+      "config_id": 172,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4133735234736806,
+      "time": 275.30423641204834,
+      "cpu_time": 240.41594313600035,
+      "status": 1,
+      "starttime": 1784472545.6690247,
+      "endtime": 1784472820.9737294,
+      "additional_info": {}
+    },
+    {
+      "config_id": 173,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4141684829378043,
+      "time": 274.76067090034485,
+      "cpu_time": 239.736643404,
+      "status": 1,
+      "starttime": 1784472553.9359107,
+      "endtime": 1784472828.6972108,
+      "additional_info": {}
+    },
+    {
+      "config_id": 174,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40705444999934093,
+      "time": 271.3350257873535,
+      "cpu_time": 237.37397082999996,
+      "status": 1,
+      "starttime": 1784472742.4194338,
+      "endtime": 1784473013.754963,
+      "additional_info": {}
+    },
+    {
+      "config_id": 175,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41582871708718766,
+      "time": 268.4843487739563,
+      "cpu_time": 235.97001960600028,
+      "status": 1,
+      "starttime": 1784472757.3994298,
+      "endtime": 1784473025.8842301,
+      "additional_info": {}
+    },
+    {
+      "config_id": 176,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4166469206677864,
+      "time": 269.25584530830383,
+      "cpu_time": 236.62917428799983,
+      "status": 1,
+      "starttime": 1784472761.3783963,
+      "endtime": 1784473030.6348171,
+      "additional_info": {}
+    },
+    {
+      "config_id": 177,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4133866604434941,
+      "time": 271.9150023460388,
+      "cpu_time": 238.5147672369999,
+      "status": 1,
+      "starttime": 1784472772.0755029,
+      "endtime": 1784473043.9927158,
+      "additional_info": {}
+    },
+    {
+      "config_id": 178,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4106879535226161,
+      "time": 272.09332966804504,
+      "cpu_time": 238.82287760000008,
+      "status": 1,
+      "starttime": 1784472778.689122,
+      "endtime": 1784473050.7831032,
+      "additional_info": {}
+    },
+    {
+      "config_id": 179,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4147365668276254,
+      "time": 275.1189625263214,
+      "cpu_time": 238.99831971599997,
+      "status": 1,
+      "starttime": 1784472780.7096415,
+      "endtime": 1784473055.8291092,
+      "additional_info": {}
+    },
+    {
+      "config_id": 180,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4102160061892184,
+      "time": 276.24959206581116,
+      "cpu_time": 240.35471978099986,
+      "status": 1,
+      "starttime": 1784472784.6470535,
+      "endtime": 1784473060.897288,
+      "additional_info": {}
+    },
+    {
+      "config_id": 181,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4136880999021751,
+      "time": 274.4081952571869,
+      "cpu_time": 239.601640588,
+      "status": 1,
+      "starttime": 1784472791.1799076,
+      "endtime": 1784473065.5886896,
+      "additional_info": {}
+    },
+    {
+      "config_id": 182,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41444081359833734,
+      "time": 269.46458768844604,
+      "cpu_time": 237.1157349519999,
+      "status": 1,
+      "starttime": 1784472792.99352,
+      "endtime": 1784473062.458584,
+      "additional_info": {}
+    },
+    {
+      "config_id": 183,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4164213212031006,
+      "time": 269.27780270576477,
+      "cpu_time": 238.15470112499997,
+      "status": 1,
+      "starttime": 1784472793.1122122,
+      "endtime": 1784473062.3905656,
+      "additional_info": {}
+    },
+    {
+      "config_id": 184,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4156520966946119,
+      "time": 276.3688385486603,
+      "cpu_time": 239.72556640700031,
+      "status": 1,
+      "starttime": 1784472809.3053129,
+      "endtime": 1784473085.674731,
+      "additional_info": {}
+    },
+    {
+      "config_id": 185,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4119041058811789,
+      "time": 273.6850185394287,
+      "cpu_time": 240.05380145100025,
+      "status": 1,
+      "starttime": 1784472815.1812494,
+      "endtime": 1784473088.8671553,
+      "additional_info": {}
+    },
+    {
+      "config_id": 186,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.3999755569427191,
+      "time": 277.1703317165375,
+      "cpu_time": 242.8309952720001,
+      "status": 1,
+      "starttime": 1784472821.0876803,
+      "endtime": 1784473098.2613838,
+      "additional_info": {}
+    },
+    {
+      "config_id": 187,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41500701881391927,
+      "time": 277.9879755973816,
+      "cpu_time": 242.83427037699994,
+      "status": 1,
+      "starttime": 1784472828.7351687,
+      "endtime": 1784473106.7235806,
+      "additional_info": {}
+    },
+    {
+      "config_id": 188,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4170272577546255,
+      "time": 244.31850576400757,
+      "cpu_time": 232.93393015300035,
+      "status": 1,
+      "starttime": 1784473013.7799854,
+      "endtime": 1784473258.1014707,
+      "additional_info": {}
+    },
+    {
+      "config_id": 189,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.40549423103410515,
+      "time": 241.4168701171875,
+      "cpu_time": 232.75014091500043,
+      "status": 1,
+      "starttime": 1784473025.9266884,
+      "endtime": 1784473267.3444152,
+      "additional_info": {}
+    },
+    {
+      "config_id": 190,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41136721179441693,
+      "time": 239.9030532836914,
+      "cpu_time": 231.21993280800007,
+      "status": 1,
+      "starttime": 1784473030.6727505,
+      "endtime": 1784473270.5767136,
+      "additional_info": {}
+    },
+    {
+      "config_id": 191,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4174085553144549,
+      "time": 238.92833876609802,
+      "cpu_time": 233.069411854,
+      "status": 1,
+      "starttime": 1784473044.0607095,
+      "endtime": 1784473282.9896193,
+      "additional_info": {}
+    },
+    {
+      "config_id": 192,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4166783487686449,
+      "time": 239.12630558013916,
+      "cpu_time": 234.1516665170002,
+      "status": 1,
+      "starttime": 1784473050.8247979,
+      "endtime": 1784473289.9515529,
+      "additional_info": {}
+    },
+    {
+      "config_id": 193,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4150959306821776,
+      "time": 236.38236165046692,
+      "cpu_time": 233.13184325599968,
+      "status": 1,
+      "starttime": 1784473055.8894575,
+      "endtime": 1784473292.2723885,
+      "additional_info": {}
+    },
+    {
+      "config_id": 194,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41474264655589055,
+      "time": 236.31612348556519,
+      "cpu_time": 232.72506365499976,
+      "status": 1,
+      "starttime": 1784473060.9432943,
+      "endtime": 1784473297.2600093,
+      "additional_info": {}
+    },
+    {
+      "config_id": 195,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4162467615163239,
+      "time": 236.69181871414185,
+      "cpu_time": 233.5320465230002,
+      "status": 1,
+      "starttime": 1784473062.4669251,
+      "endtime": 1784473299.1591823,
+      "additional_info": {}
+    },
+    {
+      "config_id": 196,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.41582871708718766,
+      "time": 235.50547647476196,
+      "cpu_time": 232.42248137800016,
+      "status": 1,
+      "starttime": 1784473062.5781262,
+      "endtime": 1784473298.0840943,
+      "additional_info": {}
+    },
+    {
+      "config_id": 197,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": -0.4178719707048213,
+      "time": 234.57884550094604,
+      "cpu_time": 232.5698050430001,
+      "status": 1,
+      "starttime": 1784473071.8688765,
+      "endtime": 1784473306.4481802,
+      "additional_info": {}
+    }
+  ],
+  "configs": {
+    "1": {
+      "mutation_eta": 12.1413838006556,
+      "pbi_theta": 12.790729213506
+    },
+    "2": {
+      "mutation_eta": 26.0959183238447,
+      "pbi_theta": 5.0469716079533
+    },
+    "3": {
+      "mutation_eta": 35.3769491016865,
+      "pbi_theta": 16.2478962512687
+    },
+    "4": {
+      "mutation_eta": 3.0183395221829,
+      "pbi_theta": 8.5077671380714
+    },
+    "5": {
+      "mutation_eta": 11.2631183173507,
+      "pbi_theta": 18.6709922486916
+    },
+    "6": {
+      "mutation_eta": 34.1191902738064,
+      "pbi_theta": 6.2178230220452
+    },
+    "7": {
+      "mutation_eta": 24.9983205143362,
+      "pbi_theta": 15.0808937400579
+    },
+    "8": {
+      "mutation_eta": 20.5413950253278,
+      "pbi_theta": 2.6243949979544
+    },
+    "9": {
+      "mutation_eta": 18.2384774070233,
+      "pbi_theta": 17.2192202582955
+    },
+    "10": {
+      "mutation_eta": 22.6907016541809,
+      "pbi_theta": 9.5218493714929
+    },
+    "11": {
+      "mutation_eta": 31.973761992529,
+      "pbi_theta": 11.1792864659801
+    },
+    "12": {
+      "mutation_eta": 9.112824017182,
+      "pbi_theta": 3.4855440715328
+    },
+    "13": {
+      "mutation_eta": 5.4605713151395,
+      "pbi_theta": 13.6365928100422
+    },
+    "14": {
+      "mutation_eta": 37.8236103393137,
+      "pbi_theta": 1.1555915521458
+    },
+    "15": {
+      "mutation_eta": 28.6960723474622,
+      "pbi_theta": 19.5493934713304
+    },
+    "16": {
+      "mutation_eta": 14.7460958063602,
+      "pbi_theta": 7.0650626979768
+    },
+    "17": {
+      "mutation_eta": 15.9094774872065,
+      "pbi_theta": 18.8142860047519
+    },
+    "18": {
+      "mutation_eta": 29.8610480055213,
+      "pbi_theta": 7.5580436103046
+    },
+    "19": {
+      "mutation_eta": 38.9959794469178,
+      "pbi_theta": 13.1467919247225
+    },
+    "20": {
+      "mutation_eta": 6.6356940679252,
+      "pbi_theta": 1.8869210379198
+    },
+    "21": {
+      "mutation_eta": 32.8740339984541,
+      "pbi_theta": 7.7872456894029
+    },
+    "22": {
+      "mutation_eta": 33.1010841569688,
+      "pbi_theta": 7.811162701757
+    },
+    "23": {
+      "mutation_eta": 30.3163890674443,
+      "pbi_theta": 7.6287567681262
+    },
+    "24": {
+      "mutation_eta": 32.1654588885976,
+      "pbi_theta": 7.7620000033621
+    },
+    "25": {
+      "mutation_eta": 32.5540853350454,
+      "pbi_theta": 7.7900501065971
+    },
+    "26": {
+      "mutation_eta": 38.3722142278495,
+      "pbi_theta": 7.7122156629326
+    },
+    "27": {
+      "mutation_eta": 35.4889302157554,
+      "pbi_theta": 7.530675034632
+    },
+    "28": {
+      "mutation_eta": 35.2393727390753,
+      "pbi_theta": 7.7681299910018
+    },
+    "29": {
+      "mutation_eta": 3.9790416373377,
+      "pbi_theta": 7.8947065043803
+    },
+    "30": {
+      "mutation_eta": 3.3640786118282,
+      "pbi_theta": 7.6968501402247
+    },
+    "31": {
+      "mutation_eta": 2.8309891665726,
+      "pbi_theta": 8.0069498688263
+    },
+    "32": {
+      "mutation_eta": 2.3160349982807,
+      "pbi_theta": 7.8300436923149
+    },
+    "33": {
+      "mutation_eta": 4.141276080209,
+      "pbi_theta": 8.1254559457563
+    },
+    "34": {
+      "mutation_eta": 3.9825781615615,
+      "pbi_theta": 7.6039456178914
+    },
+    "35": {
+      "mutation_eta": 16.0317403029444,
+      "pbi_theta": 2.5864577290692
+    },
+    "36": {
+      "mutation_eta": 24.2703040386665,
+      "pbi_theta": 3.6564568163778
+    },
+    "37": {
+      "mutation_eta": 23.2873781319192,
+      "pbi_theta": 6.7534815476281
+    },
+    "38": {
+      "mutation_eta": 2.2675203427346,
+      "pbi_theta": 5.5370754635866
+    },
+    "39": {
+      "mutation_eta": 3.0521765859876,
+      "pbi_theta": 5.4259078198755
+    },
+    "40": {
+      "mutation_eta": 4.0015810032118,
+      "pbi_theta": 5.4185497342498
+    },
+    "41": {
+      "mutation_eta": 2.7037873000761,
+      "pbi_theta": 5.4892006196911
+    },
+    "42": {
+      "mutation_eta": 3.1855229332759,
+      "pbi_theta": 5.4724756355371
+    },
+    "43": {
+      "mutation_eta": 2.6636993924625,
+      "pbi_theta": 5.5205652123348
+    },
+    "44": {
+      "mutation_eta": 3.6629886597083,
+      "pbi_theta": 5.2911287258985
+    },
+    "45": {
+      "mutation_eta": 12.9796635303661,
+      "pbi_theta": 17.9838636758055
+    },
+    "46": {
+      "mutation_eta": 3.4274444048554,
+      "pbi_theta": 7.4236119775209
+    },
+    "47": {
+      "mutation_eta": 19.3929283877697,
+      "pbi_theta": 6.3161722545253
+    },
+    "48": {
+      "mutation_eta": 3.2691952161846,
+      "pbi_theta": 7.4298750976741
+    },
+    "49": {
+      "mutation_eta": 3.5100904641555,
+      "pbi_theta": 7.3970272298492
+    },
+    "50": {
+      "mutation_eta": 3.645348113157,
+      "pbi_theta": 7.4056379297509
+    },
+    "51": {
+      "mutation_eta": 3.565808095842,
+      "pbi_theta": 7.455822236686
+    },
+    "52": {
+      "mutation_eta": 3.4620722578542,
+      "pbi_theta": 7.408029320149
+    },
+    "53": {
+      "mutation_eta": 4.2660440043891,
+      "pbi_theta": 5.3905676217407
+    },
+    "54": {
+      "mutation_eta": 4.6934282642706,
+      "pbi_theta": 5.4040833371206
+    },
+    "55": {
+      "mutation_eta": 33.9714631750562,
+      "pbi_theta": 13.8658333948204
+    },
+    "56": {
+      "mutation_eta": 4.2129829716855,
+      "pbi_theta": 5.3944542521633
+    },
+    "57": {
+      "mutation_eta": 3.9932926505745,
+      "pbi_theta": 5.3935327073931
+    },
+    "58": {
+      "mutation_eta": 4.1559191401002,
+      "pbi_theta": 5.3943588312926
+    },
+    "59": {
+      "mutation_eta": 4.2905739317668,
+      "pbi_theta": 5.4097616184817
+    },
+    "60": {
+      "mutation_eta": 4.14647889384,
+      "pbi_theta": 5.433123125984
+    },
+    "61": {
+      "mutation_eta": 3.3330996493221,
+      "pbi_theta": 5.4501567847995
+    },
+    "62": {
+      "mutation_eta": 3.2199224825413,
+      "pbi_theta": 5.4522837102725
+    },
+    "63": {
+      "mutation_eta": 3.1361669586131,
+      "pbi_theta": 5.4583340677957
+    },
+    "64": {
+      "mutation_eta": 38.5522791007515,
+      "pbi_theta": 3.627922254166
+    },
+    "65": {
+      "mutation_eta": 3.3038184879655,
+      "pbi_theta": 5.4651611503551
+    },
+    "66": {
+      "mutation_eta": 3.3303865335605,
+      "pbi_theta": 5.4565158631838
+    },
+    "67": {
+      "mutation_eta": 3.2361506305524,
+      "pbi_theta": 5.463509481464
+    },
+    "68": {
+      "mutation_eta": 10.1106288177145,
+      "pbi_theta": 16.6175111354707
+    },
+    "69": {
+      "mutation_eta": 3.2011406440973,
+      "pbi_theta": 5.4204139816734
+    },
+    "70": {
+      "mutation_eta": 3.2102017643052,
+      "pbi_theta": 5.4217630475133
+    },
+    "71": {
+      "mutation_eta": 3.1449311585112,
+      "pbi_theta": 5.4191250449361
+    },
+    "72": {
+      "mutation_eta": 3.2233528015137,
+      "pbi_theta": 5.4138484577363
+    },
+    "73": {
+      "mutation_eta": 3.1409583740964,
+      "pbi_theta": 5.4207841505417
+    },
+    "74": {
+      "mutation_eta": 12.3944087529619,
+      "pbi_theta": 13.8433973116333
+    },
+    "75": {
+      "mutation_eta": 3.1499161869413,
+      "pbi_theta": 5.4119461083754
+    },
+    "76": {
+      "mutation_eta": 18.1400062571553,
+      "pbi_theta": 9.535692309926
+    },
+    "77": {
+      "mutation_eta": 3.172435611798,
+      "pbi_theta": 5.4365573126624
+    },
+    "78": {
+      "mutation_eta": 3.1956455057626,
+      "pbi_theta": 5.4421757575663
+    },
+    "79": {
+      "mutation_eta": 4.0093943292372,
+      "pbi_theta": 5.4687693453387
+    },
+    "80": {
+      "mutation_eta": 4.0435639156548,
+      "pbi_theta": 5.4712173514873
+    },
+    "81": {
+      "mutation_eta": 24.7016131465288,
+      "pbi_theta": 2.5283513327579
+    },
+    "82": {
+      "mutation_eta": 2.0164979291491,
+      "pbi_theta": 18.4939220212283
+    },
+    "83": {
+      "mutation_eta": 4.017823915847,
+      "pbi_theta": 5.4709242574164
+    },
+    "84": {
+      "mutation_eta": 26.9943236504672,
+      "pbi_theta": 4.6046762906258
+    },
+    "85": {
+      "mutation_eta": 10.152170670909,
+      "pbi_theta": 1.0168169976055
+    },
+    "86": {
+      "mutation_eta": 3.2957411479896,
+      "pbi_theta": 5.4673096382758
+    },
+    "87": {
+      "mutation_eta": 3.3072539583011,
+      "pbi_theta": 5.4780780786555
+    },
+    "88": {
+      "mutation_eta": 27.4394346307229,
+      "pbi_theta": 4.641025283649
+    },
+    "89": {
+      "mutation_eta": 3.278916498182,
+      "pbi_theta": 5.4746516405504
+    },
+    "90": {
+      "mutation_eta": 9.847159195173,
+      "pbi_theta": 16.6551853172417
+    },
+    "91": {
+      "mutation_eta": 3.290666182161,
+      "pbi_theta": 5.4651611503551
+    },
+    "92": {
+      "mutation_eta": 4.0338091449323,
+      "pbi_theta": 5.4681061446761
+    },
+    "93": {
+      "mutation_eta": 4.0055719514914,
+      "pbi_theta": 5.473665844441
+    },
+    "94": {
+      "mutation_eta": 4.0066225819556,
+      "pbi_theta": 5.4794046791128
+    },
+    "95": {
+      "mutation_eta": 4.0293189631409,
+      "pbi_theta": 5.4736896406463
+    },
+    "96": {
+      "mutation_eta": 37.7461650742981,
+      "pbi_theta": 1.1660464330633
+    },
+    "97": {
+      "mutation_eta": 4.0037174852114,
+      "pbi_theta": 5.4701171311328
+    },
+    "98": {
+      "mutation_eta": 39.3945299489279,
+      "pbi_theta": 1.0454930419985
+    },
+    "99": {
+      "mutation_eta": 4.0688204074963,
+      "pbi_theta": 5.4746516405504
+    },
+    "100": {
+      "mutation_eta": 29.0507917965019,
+      "pbi_theta": 14.2413610503839
+    },
+    "101": {
+      "mutation_eta": 27.1668390782891,
+      "pbi_theta": 2.2384329616128
+    },
+    "102": {
+      "mutation_eta": 27.0635111658023,
+      "pbi_theta": 2.2550316580622
+    },
+    "103": {
+      "mutation_eta": 25.1635231602715,
+      "pbi_theta": 11.314219350508
+    },
+    "104": {
+      "mutation_eta": 26.7429291297318,
+      "pbi_theta": 4.1716968389727
+    },
+    "105": {
+      "mutation_eta": 26.6554797597994,
+      "pbi_theta": 4.5906374641823
+    },
+    "106": {
+      "mutation_eta": 26.6854049159828,
+      "pbi_theta": 4.1519747185808
+    },
+    "107": {
+      "mutation_eta": 26.5492364523647,
+      "pbi_theta": 4.2459816026407
+    },
+    "108": {
+      "mutation_eta": 4.4065725445252,
+      "pbi_theta": 8.5273475159508
+    },
+    "109": {
+      "mutation_eta": 26.5612769470508,
+      "pbi_theta": 4.4412280109993
+    },
+    "110": {
+      "mutation_eta": 26.5741266552039,
+      "pbi_theta": 4.2158304010876
+    },
+    "111": {
+      "mutation_eta": 26.5738412501229,
+      "pbi_theta": 4.5787669540646
+    },
+    "112": {
+      "mutation_eta": 26.5866020916628,
+      "pbi_theta": 4.3483662532061
+    },
+    "113": {
+      "mutation_eta": 36.7169278476388,
+      "pbi_theta": 19.2224849083383
+    },
+    "114": {
+      "mutation_eta": 26.6540055436384,
+      "pbi_theta": 4.5634489443466
+    },
+    "115": {
+      "mutation_eta": 26.7469190060186,
+      "pbi_theta": 4.4627390886942
+    },
+    "116": {
+      "mutation_eta": 7.187309999926,
+      "pbi_theta": 7.7443082895761
+    },
+    "117": {
+      "mutation_eta": 3.3261475258924,
+      "pbi_theta": 5.4724756355371
+    },
+    "118": {
+      "mutation_eta": 19.1963301340707,
+      "pbi_theta": 10.6585864571885
+    },
+    "119": {
+      "mutation_eta": 26.5685001520243,
+      "pbi_theta": 4.3537836885675
+    },
+    "120": {
+      "mutation_eta": 34.2902455748819,
+      "pbi_theta": 8.5020008680184
+    },
+    "121": {
+      "mutation_eta": 26.5680994405053,
+      "pbi_theta": 4.5266192285841
+    },
+    "122": {
+      "mutation_eta": 26.5583088658026,
+      "pbi_theta": 4.5203930045213
+    },
+    "123": {
+      "mutation_eta": 26.5594541963003,
+      "pbi_theta": 4.4012229717721
+    },
+    "124": {
+      "mutation_eta": 26.5692870675944,
+      "pbi_theta": 4.2762607294479
+    },
+    "125": {
+      "mutation_eta": 26.6193691661966,
+      "pbi_theta": 4.3460581173094
+    },
+    "126": {
+      "mutation_eta": 26.6092611532538,
+      "pbi_theta": 4.3902182539202
+    },
+    "127": {
+      "mutation_eta": 26.5971287143664,
+      "pbi_theta": 4.3287689598096
+    },
+    "128": {
+      "mutation_eta": 26.6056210696129,
+      "pbi_theta": 4.3435876929603
+    },
+    "129": {
+      "mutation_eta": 26.5866020916628,
+      "pbi_theta": 4.3063325188489
+    },
+    "130": {
+      "mutation_eta": 26.5853146942995,
+      "pbi_theta": 4.3397540228052
+    },
+    "131": {
+      "mutation_eta": 26.5986019094389,
+      "pbi_theta": 4.3418043205175
+    },
+    "132": {
+      "mutation_eta": 26.6003204931443,
+      "pbi_theta": 4.2983521531102
+    },
+    "133": {
+      "mutation_eta": 26.6092429728997,
+      "pbi_theta": 4.3099319004294
+    },
+    "134": {
+      "mutation_eta": 26.5982368627296,
+      "pbi_theta": 4.3451718346697
+    },
+    "135": {
+      "mutation_eta": 26.6081775107144,
+      "pbi_theta": 4.3193093320864
+    },
+    "136": {
+      "mutation_eta": 26.5835202973672,
+      "pbi_theta": 4.3196055317739
+    },
+    "137": {
+      "mutation_eta": 26.5871365333029,
+      "pbi_theta": 4.3253894554818
+    },
+    "138": {
+      "mutation_eta": 26.5966787773378,
+      "pbi_theta": 4.3453720684042
+    },
+    "139": {
+      "mutation_eta": 26.5833704291125,
+      "pbi_theta": 4.3279721109567
+    },
+    "140": {
+      "mutation_eta": 26.5886085764365,
+      "pbi_theta": 4.3236785647292
+    },
+    "141": {
+      "mutation_eta": 26.5813170492936,
+      "pbi_theta": 4.3492268311178
+    },
+    "142": {
+      "mutation_eta": 3.185767273398,
+      "pbi_theta": 5.4712173514873
+    },
+    "143": {
+      "mutation_eta": 3.1839074762941,
+      "pbi_theta": 5.4736896406463
+    },
+    "144": {
+      "mutation_eta": 3.1921446847725,
+      "pbi_theta": 5.4613898659946
+    },
+    "145": {
+      "mutation_eta": 2.585826308541,
+      "pbi_theta": 5.4724756355371
+    },
+    "146": {
+      "mutation_eta": 3.1956455057626,
+      "pbi_theta": 5.473224889761
+    },
+    "147": {
+      "mutation_eta": 27.9380401650249,
+      "pbi_theta": 16.505412059815
+    },
+    "148": {
+      "mutation_eta": 3.1906821203423,
+      "pbi_theta": 5.5731718705194
+    },
+    "149": {
+      "mutation_eta": 26.5866020916628,
+      "pbi_theta": 4.3492710124875
+    },
+    "150": {
+      "mutation_eta": 26.5961992775506,
+      "pbi_theta": 4.4341312774081
+    },
+    "151": {
+      "mutation_eta": 26.5956070006568,
+      "pbi_theta": 4.4309174043788
+    },
+    "152": {
+      "mutation_eta": 26.5893412108918,
+      "pbi_theta": 4.441854383088
+    },
+    "153": {
+      "mutation_eta": 7.3742359252405,
+      "pbi_theta": 1.7357762006212
+    },
+    "154": {
+      "mutation_eta": 26.5938287853796,
+      "pbi_theta": 4.419911062951
+    },
+    "155": {
+      "mutation_eta": 3.1838806879739,
+      "pbi_theta": 5.458395959506
+    },
+    "156": {
+      "mutation_eta": 2.5615639839235,
+      "pbi_theta": 5.4724756355371
+    },
+    "157": {
+      "mutation_eta": 26.590270121168,
+      "pbi_theta": 4.3483662532061
+    },
+    "158": {
+      "mutation_eta": 3.1615770991274,
+      "pbi_theta": 5.4736896406463
+    },
+    "159": {
+      "mutation_eta": 3.1744562491134,
+      "pbi_theta": 5.458395959506
+    },
+    "160": {
+      "mutation_eta": 27.5771115599105,
+      "pbi_theta": 5.4157018288715
+    },
+    "161": {
+      "mutation_eta": 27.7584803183253,
+      "pbi_theta": 5.4161078065633
+    },
+    "162": {
+      "mutation_eta": 27.8004336497517,
+      "pbi_theta": 5.4155577147866
+    },
+    "163": {
+      "mutation_eta": 27.8811877011361,
+      "pbi_theta": 5.4130623524732
+    },
+    "164": {
+      "mutation_eta": 3.1791629377979,
+      "pbi_theta": 5.4724756355371
+    },
+    "165": {
+      "mutation_eta": 15.7594365613628,
+      "pbi_theta": 5.6870376103903
+    },
+    "166": {
+      "mutation_eta": 26.5924027438701,
+      "pbi_theta": 4.3476754146736
+    },
+    "167": {
+      "mutation_eta": 26.592623281088,
+      "pbi_theta": 4.3483662532061
+    },
+    "168": {
+      "mutation_eta": 27.25839650102,
+      "pbi_theta": 5.0445086225529
+    },
+    "169": {
+      "mutation_eta": 10.0477457311806,
+      "pbi_theta": 1.0043513252929
+    },
+    "170": {
+      "mutation_eta": 27.2340855037699,
+      "pbi_theta": 5.0453950038766
+    },
+    "171": {
+      "mutation_eta": 27.1408902869746,
+      "pbi_theta": 17.5831224752615
+    },
+    "172": {
+      "mutation_eta": 27.2408909460912,
+      "pbi_theta": 4.6501429854487
+    },
+    "173": {
+      "mutation_eta": 34.1564228626264,
+      "pbi_theta": 3.6716780500944
+    },
+    "174": {
+      "mutation_eta": 32.1991429897649,
+      "pbi_theta": 19.1209180052139
+    },
+    "175": {
+      "mutation_eta": 3.1855229332759,
+      "pbi_theta": 5.4683207782588
+    },
+    "176": {
+      "mutation_eta": 27.2992572468979,
+      "pbi_theta": 4.6636523966844
+    },
+    "177": {
+      "mutation_eta": 27.2520494271649,
+      "pbi_theta": 5.19461531758
+    },
+    "178": {
+      "mutation_eta": 27.2400693558734,
+      "pbi_theta": 5.1153347918233
+    },
+    "179": {
+      "mutation_eta": 27.2382095133656,
+      "pbi_theta": 4.8826122442876
+    },
+    "180": {
+      "mutation_eta": 27.2381191178709,
+      "pbi_theta": 4.9626115705708
+    },
+    "181": {
+      "mutation_eta": 9.2780609184719,
+      "pbi_theta": 7.2622276029731
+    },
+    "182": {
+      "mutation_eta": 18.9682230725582,
+      "pbi_theta": 5.1336561958686
+    },
+    "183": {
+      "mutation_eta": 4.0542839570043,
+      "pbi_theta": 5.4181511217026
+    },
+    "184": {
+      "mutation_eta": 15.9553692877324,
+      "pbi_theta": 4.6163634487312
+    },
+    "185": {
+      "mutation_eta": 14.3460612966249,
+      "pbi_theta": 11.0093473240849
+    },
+    "186": {
+      "mutation_eta": 37.1055612615204,
+      "pbi_theta": 11.2965016618715
+    },
+    "187": {
+      "mutation_eta": 4.0416386055806,
+      "pbi_theta": 5.4295880390915
+    },
+    "188": {
+      "mutation_eta": 4.0486715669803,
+      "pbi_theta": 5.434179410907
+    },
+    "189": {
+      "mutation_eta": 31.5513747267862,
+      "pbi_theta": 18.6717640684232
+    },
+    "190": {
+      "mutation_eta": 28.9780918133169,
+      "pbi_theta": 19.3338175896527
+    },
+    "191": {
+      "mutation_eta": 4.0435965105961,
+      "pbi_theta": 5.4155117209692
+    },
+    "192": {
+      "mutation_eta": 4.02419285081,
+      "pbi_theta": 5.4712173514873
+    },
+    "193": {
+      "mutation_eta": 4.030113595447,
+      "pbi_theta": 5.470183285296
+    },
+    "194": {
+      "mutation_eta": 4.045785953007,
+      "pbi_theta": 5.4736896406463
+    },
+    "195": {
+      "mutation_eta": 23.621827515613,
+      "pbi_theta": 5.4711347501353
+    },
+    "196": {
+      "mutation_eta": 3.1855229332759,
+      "pbi_theta": 5.4681285830055
+    },
+    "197": {
+      "mutation_eta": 26.5833704291125,
+      "pbi_theta": 4.3484793748774
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Initial Design: Sobol",
+    "12": "Initial Design: Sobol",
+    "13": "Initial Design: Sobol",
+    "14": "Initial Design: Sobol",
+    "15": "Initial Design: Sobol",
+    "16": "Initial Design: Sobol",
+    "17": "Initial Design: Sobol",
+    "18": "Initial Design: Sobol",
+    "19": "Initial Design: Sobol",
+    "20": "Initial Design: Sobol",
+    "21": "Acquisition Function Maximizer: Local Search",
+    "22": "Acquisition Function Maximizer: Local Search",
+    "23": "Acquisition Function Maximizer: Local Search",
+    "24": "Acquisition Function Maximizer: Local Search",
+    "25": "Acquisition Function Maximizer: Local Search",
+    "26": "Acquisition Function Maximizer: Local Search",
+    "27": "Acquisition Function Maximizer: Local Search",
+    "28": "Acquisition Function Maximizer: Local Search",
+    "29": "Acquisition Function Maximizer: Local Search",
+    "30": "Acquisition Function Maximizer: Local Search",
+    "31": "Acquisition Function Maximizer: Local Search",
+    "32": "Acquisition Function Maximizer: Local Search",
+    "33": "Acquisition Function Maximizer: Local Search",
+    "34": "Acquisition Function Maximizer: Local Search",
+    "35": "Random Search",
+    "36": "Random Search",
+    "37": "Random Search",
+    "38": "Acquisition Function Maximizer: Local Search",
+    "39": "Acquisition Function Maximizer: Local Search",
+    "40": "Acquisition Function Maximizer: Local Search",
+    "41": "Acquisition Function Maximizer: Local Search",
+    "42": "Acquisition Function Maximizer: Local Search",
+    "43": "Acquisition Function Maximizer: Local Search",
+    "44": "Acquisition Function Maximizer: Local Search",
+    "45": "Random Search",
+    "46": "Acquisition Function Maximizer: Local Search",
+    "47": "Random Search",
+    "48": "Acquisition Function Maximizer: Local Search",
+    "49": "Acquisition Function Maximizer: Local Search",
+    "50": "Acquisition Function Maximizer: Local Search",
+    "51": "Acquisition Function Maximizer: Local Search",
+    "52": "Acquisition Function Maximizer: Local Search",
+    "53": "Acquisition Function Maximizer: Local Search",
+    "54": "Acquisition Function Maximizer: Local Search",
+    "55": "Random Search",
+    "56": "Acquisition Function Maximizer: Local Search",
+    "57": "Acquisition Function Maximizer: Local Search",
+    "58": "Acquisition Function Maximizer: Local Search",
+    "59": "Acquisition Function Maximizer: Local Search",
+    "60": "Acquisition Function Maximizer: Local Search",
+    "61": "Acquisition Function Maximizer: Local Search",
+    "62": "Acquisition Function Maximizer: Local Search",
+    "63": "Acquisition Function Maximizer: Local Search",
+    "64": "Random Search",
+    "65": "Acquisition Function Maximizer: Local Search",
+    "66": "Acquisition Function Maximizer: Local Search",
+    "67": "Acquisition Function Maximizer: Local Search",
+    "68": "Random Search",
+    "69": "Acquisition Function Maximizer: Local Search",
+    "70": "Acquisition Function Maximizer: Local Search",
+    "71": "Acquisition Function Maximizer: Local Search",
+    "72": "Acquisition Function Maximizer: Local Search",
+    "73": "Acquisition Function Maximizer: Local Search",
+    "74": "Random Search",
+    "75": "Acquisition Function Maximizer: Local Search",
+    "76": "Random Search",
+    "77": "Acquisition Function Maximizer: Local Search",
+    "78": "Acquisition Function Maximizer: Local Search",
+    "79": "Acquisition Function Maximizer: Local Search",
+    "80": "Acquisition Function Maximizer: Local Search",
+    "81": "Random Search",
+    "82": "Random Search",
+    "83": "Acquisition Function Maximizer: Local Search",
+    "84": "Random Search",
+    "85": "Random Search",
+    "86": "Acquisition Function Maximizer: Local Search",
+    "87": "Acquisition Function Maximizer: Local Search",
+    "88": "Random Search",
+    "89": "Acquisition Function Maximizer: Local Search",
+    "90": "Random Search",
+    "91": "Acquisition Function Maximizer: Local Search",
+    "92": "Acquisition Function Maximizer: Local Search",
+    "93": "Acquisition Function Maximizer: Local Search",
+    "94": "Acquisition Function Maximizer: Local Search",
+    "95": "Acquisition Function Maximizer: Local Search",
+    "96": "Random Search",
+    "97": "Acquisition Function Maximizer: Local Search",
+    "98": "Random Search",
+    "99": "Acquisition Function Maximizer: Local Search",
+    "100": "Random Search",
+    "101": "Acquisition Function Maximizer: Local Search",
+    "102": "Acquisition Function Maximizer: Local Search",
+    "103": "Random Search",
+    "104": "Acquisition Function Maximizer: Local Search",
+    "105": "Acquisition Function Maximizer: Local Search",
+    "106": "Acquisition Function Maximizer: Local Search",
+    "107": "Acquisition Function Maximizer: Local Search",
+    "108": "Random Search",
+    "109": "Acquisition Function Maximizer: Local Search",
+    "110": "Acquisition Function Maximizer: Local Search",
+    "111": "Acquisition Function Maximizer: Local Search",
+    "112": "Acquisition Function Maximizer: Local Search",
+    "113": "Random Search",
+    "114": "Acquisition Function Maximizer: Local Search",
+    "115": "Acquisition Function Maximizer: Local Search",
+    "116": "Random Search",
+    "117": "Acquisition Function Maximizer: Local Search",
+    "118": "Random Search",
+    "119": "Acquisition Function Maximizer: Local Search",
+    "120": "Random Search",
+    "121": "Acquisition Function Maximizer: Local Search",
+    "122": "Acquisition Function Maximizer: Local Search",
+    "123": "Acquisition Function Maximizer: Local Search",
+    "124": "Acquisition Function Maximizer: Local Search",
+    "125": "Acquisition Function Maximizer: Local Search",
+    "126": "Acquisition Function Maximizer: Local Search",
+    "127": "Acquisition Function Maximizer: Local Search",
+    "128": "Acquisition Function Maximizer: Local Search",
+    "129": "Acquisition Function Maximizer: Local Search",
+    "130": "Acquisition Function Maximizer: Local Search",
+    "131": "Acquisition Function Maximizer: Local Search",
+    "132": "Acquisition Function Maximizer: Local Search",
+    "133": "Acquisition Function Maximizer: Local Search",
+    "134": "Acquisition Function Maximizer: Local Search",
+    "135": "Acquisition Function Maximizer: Local Search",
+    "136": "Acquisition Function Maximizer: Local Search",
+    "137": "Acquisition Function Maximizer: Local Search",
+    "138": "Acquisition Function Maximizer: Local Search",
+    "139": "Acquisition Function Maximizer: Local Search",
+    "140": "Acquisition Function Maximizer: Local Search",
+    "141": "Acquisition Function Maximizer: Local Search",
+    "142": "Acquisition Function Maximizer: Local Search",
+    "143": "Acquisition Function Maximizer: Local Search",
+    "144": "Acquisition Function Maximizer: Local Search",
+    "145": "Acquisition Function Maximizer: Local Search",
+    "146": "Acquisition Function Maximizer: Local Search",
+    "147": "Random Search",
+    "148": "Acquisition Function Maximizer: Local Search",
+    "149": "Acquisition Function Maximizer: Local Search",
+    "150": "Acquisition Function Maximizer: Local Search",
+    "151": "Acquisition Function Maximizer: Local Search",
+    "152": "Acquisition Function Maximizer: Local Search",
+    "153": "Random Search",
+    "154": "Acquisition Function Maximizer: Local Search",
+    "155": "Acquisition Function Maximizer: Local Search",
+    "156": "Acquisition Function Maximizer: Local Search",
+    "157": "Acquisition Function Maximizer: Local Search",
+    "158": "Acquisition Function Maximizer: Local Search",
+    "159": "Acquisition Function Maximizer: Local Search",
+    "160": "Acquisition Function Maximizer: Local Search",
+    "161": "Acquisition Function Maximizer: Local Search",
+    "162": "Acquisition Function Maximizer: Local Search",
+    "163": "Acquisition Function Maximizer: Local Search",
+    "164": "Acquisition Function Maximizer: Local Search",
+    "165": "Random Search",
+    "166": "Acquisition Function Maximizer: Local Search",
+    "167": "Acquisition Function Maximizer: Local Search",
+    "168": "Acquisition Function Maximizer: Local Search",
+    "169": "Random Search",
+    "170": "Acquisition Function Maximizer: Local Search",
+    "171": "Random Search",
+    "172": "Acquisition Function Maximizer: Local Search",
+    "173": "Random Search",
+    "174": "Random Search",
+    "175": "Acquisition Function Maximizer: Local Search",
+    "176": "Acquisition Function Maximizer: Local Search",
+    "177": "Acquisition Function Maximizer: Local Search",
+    "178": "Acquisition Function Maximizer: Local Search",
+    "179": "Acquisition Function Maximizer: Local Search",
+    "180": "Acquisition Function Maximizer: Local Search",
+    "181": "Random Search",
+    "182": "Random Search",
+    "183": "Acquisition Function Maximizer: Local Search",
+    "184": "Random Search",
+    "185": "Random Search",
+    "186": "Random Search",
+    "187": "Acquisition Function Maximizer: Local Search",
+    "188": "Acquisition Function Maximizer: Local Search",
+    "189": "Random Search",
+    "190": "Random Search",
+    "191": "Acquisition Function Maximizer: Local Search",
+    "192": "Acquisition Function Maximizer: Local Search",
+    "193": "Acquisition Function Maximizer: Local Search",
+    "194": "Acquisition Function Maximizer: Local Search",
+    "195": "Acquisition Function Maximizer: Local Search",
+    "196": "Acquisition Function Maximizer: Local Search",
+    "197": "Acquisition Function Maximizer: Local Search"
+  }
+}
